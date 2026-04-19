@@ -1,34 +1,57 @@
-# Roadmap Dự án Từ điển Kim Mun (Giai đoạn Kế tiếp)
+# Kế hoạch: Xây dựng Trung tâm Học thuật & Nâng cấp Giao diện Hệ thống
 
-Dưới đây là lộ trình tiếp theo, bao gồm cả hệ thống "sang số" chuyển giao trí nhớ (AI Handover) để giải quyết dứt điểm vấn đề giới hạn API của bạn.
+Dựa trên yêu cầu của bạn, chúng ta sẽ biến KIMM HUB thành một công cụ nghiên cứu thực thụ. Kế hoạch này tập trung vào 3 trụ cột: Phân tích Âm vị học, Linh hoạt hiển thị và Công cụ dữ liệu.
 
-## 0. Chuyển Giao Trí Nhớ (AI Handover System) ⭐ MỚI
-**Vấn đề:** Đổi/hết tài khoản API, nhảy sang VS Code dùng Copilot dẫn đến việc AI mới bị "mất trí nhớ", không biết dự án đang làm tới đâu, quy chuẩn ra sao.
-**Giải pháp:** Đóng gói toàn bộ trí nhớ của AI vào chính bên trong cấp thư mục dự án (không lưu ở thư mục cục bộ của app).
-**Kế hoạch thực thi:**
-- Khởi tạo cấu trúc file `.ai_context/` ngay trong `d:\AGENT\dict_builder`.
-- Bao gồm các file: 
-  - `ARCHITECTURE.md` (Ghi rõ cấu trúc DB, code frontend Flask chạy sao, script ingest hoạt động thế nào).
-  - `ROADMAP.md` (Nhật ký các mốc đã xong và việc cần làm).
-  - `PROMPT_INIT.txt` (Kịch bản mồi). Khi bạn sang một Account mới hay bật VS Code, bạn chỉ cần ném cái file này vào bảo: "Đọc file kia rồi làm tiếp" là AI mới sẽ bắt nhịp được 100%.
+## 1. Trung tâm Học thuật (Academic Hub)
+Chúng ta sẽ tích hợp các phát hiện từ Shintani (2008) về cấu trúc âm tiết tiếng Mun.
+- **Nội dung:**
+  - Cấu trúc âm tiết: `C1V(C2) / T`.
+  - Bảng hệ thống Phụ âm đầu (pj, bj, θ, ð...), Nguyên âm và 7 Thanh điệu.
+  - So sánh sơ lược với hệ thống của Savina (nếu có thể).
+- **Giao diện:** Thêm một tab hoặc nút "Học thuật" mở ra một Modal (cửa sổ nổi) hoặc Drawer (ngăn kéo) chứa các phân tích này dưới dạng Markdown trình bày đẹp mắt.
 
-## 1. Lưu trữ & Phiên bản hóa (Backup & Version Control)
-- Khởi tạo Git Repo (`git init`).
-- Đẩy source code (Flask App, Logic Script, Mẫu dữ liệu) lên một **GitHub** (kết hợp với nhánh 0 ở trên, Github sẽ giữ luôn trí nhớ của AI).
+## 2. Linh hoạt hiển thị (View Toggle)
+Bổ sung khả năng chuyển đổi giữa Card View (hiện tại) và Table View (dạng bảng nghiên cứu).
+- **Tính năng:**
+  - Nút chuyển đổi tại Header.
+  - **Table View:** Hiển thị dữ liệu cô đọng hơn, cho phép cuộn xem nhanh hàng trăm từ cùng lúc.
+  - Các cột: ID, Hán tự, Pinyin, IPA Dạo, Tiếng Việt, Nguồn.
 
-## 2. Tổng hợp Phân tích Ngôn ngữ (Linguistic Synthesis)
-- Sử dụng AI để tổng hợp tài liệu Âm vị học của **Shintani (Funing)**, hệ thống phiên âm tiếng Pháp cổ của **Savina**, ngữ pháp **Clark**.
-- Xây dựng Hub "Tài liệu học thuật" chuyên sâu ngay trên giao diện Web.
-
-## 3. Cải tiến Trải nghiệm Giao diện (Thị giác & Tương tác)
-- Bổ sung nút Toggle chuyển đổi thiết kế hiển thị giữa **Dạng Thẻ (Card View)** và **Dạng Bảng (Table View)**.
-- Phân trang (Pagination) hoặc Cuộn Vô Cực (Infinite Scroll) để tải mượt hơn.
-
-## 4. Công cụ Hiệu đính Thủ công (Fix OCR Workflow)
-- Tính năng Export CSV.
-- Tính năng Import & Merge từ CSV, xử lý cơ chế map id đè dữ liệu.
+## 3. Công cụ Dữ liệu (CSV Import/Export)
+Giúp bạn làm chủ dữ liệu OCR và sửa lỗi nhanh chóng.
+- **Export:** Cho phép tải xuống bộ lọc hiện tại (ví dụ: tất cả từ Funing Topic 1) dưới dạng file CSV.
+- **Import:** Bạn có thể sửa file CSV này (bằng Excel) và tải ngược lên để cập nhật Database.
 
 ---
 
+## Các thay đổi dự kiến
+
+### [Component] Backend (Flask)
+#### [MODIFY] [app.py](file:///d:/AGENT/dict_builder/web_ui/app.py)
+- Thêm endpoint `/export_csv` để sinh file CSV từ query search.
+- Thêm endpoint `/import_csv` (POST) để nhận file và update DB (sử dụng `entry_id` làm khóa).
+- Thêm endpoint `/phonology` để trả về nội dung Markdown nghiên cứu.
+
+### [Component] Frontend (HTML/CSS/JS)
+#### [MODIFY] [index.html](file:///d:/AGENT/dict_builder/web_ui/templates/index.html)
+- **CSS:** Thêm style cho `.data-table` và các hiệu ứng chuyển đổi View.
+- **HTML:** 
+  - Thêm nút "View Mode: Card/Table" vào header-bar.
+  - Thêm nút "Học thuật" và "Export CSV".
+  - Thêm Modal popup cho Academic Hub.
+- **JS:** 
+  - Viết logic render bảng (`renderTableMode`).
+  - Viết logic gửi yêu cầu Export/Import.
+
+---
+
+## Open Questions
 > [!IMPORTANT]
-> Với hoàn cảnh của bạn, **Bước 0 & Bước 1 (AI Handover + Github)** trở nên cực kỳ cấp bách! Nếu đồng ý, tôi sẽ tạo luôn bộ nhớ lưu trữ đó ngay bây giờ và thực hiện Git Init ngay lập tức cho bạn nhé!
+> 1. **Vị trí Academic Hub:** Bạn muốn phần phân tích Âm vị học hiện ra như một **Trang mới** hay một **Cửa sổ Modal** khi nhấn nút?
+> 2. **Cấu trúc Table:** Ngoài các cột cơ bản (Hán, Pinyin, Dạo, Việt, Nguồn), bạn có muốn hiển thị thêm cột **Nghĩa tiếng Pháp** hay **Số trang PDF** không?
+> 3. **Import CSV:** Bạn có muốn hệ thống tự động lưu bản backup dữ liệu cũ trước khi thực hiện "Ghi đè" từ file CSV không?
+
+## Kế hoạch Xác minh
+- Kiểm thử tính năng chuyển View xem có bị nhảy layout không.
+- Xuất thử 1 file CSV, sửa 1 từ và Import lại để xem Database có cập nhật đúng không.
+- Kiểm tra hiển thị các ký tự đặc biệt (IPA, Hán tự) trên dạng bảng.

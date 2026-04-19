@@ -1,7 +1,9 @@
 import os
+import io
+import csv
 import sqlite3
 import unicodedata
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request, jsonify, Response, stream_with_context
 
 app = Flask(__name__)
 DB_PATH = os.path.join(os.path.dirname(os.path.dirname(__file__)), "kim_mun_dict_v2.db")
@@ -82,6 +84,86 @@ def stats():
         "sources": [dict(s) for s in sources],
         "categories": [dict(c) for c in categories]
     })
+
+
+@app.route('/phonology')
+def phonology():
+    """Trả về nội dung Markdown về Âm vị học Kim Mun."""
+    phono_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), ".ai_context", "kim_mun_phonology.md")
+    if os.path.exists(phono_path):
+        with open(phono_path, encoding="utf-8") as f:
+            return jsonify({"content": f.read()})
+    return jsonify({"content": "# Chưa có dữ liệu Âm vị học."})
+
+@app.route('/export_csv')
+def export_csv():
+    """Xuất dữ liệu hiện tại ra file CSV."""
+    source_filter = request.args.get('source', 'All').strip()
+    category_filter = request.args.get('category', '').strip()
+    
+    conn = get_db_connection()
+    sql = "SELECT entry_id, chinese, pinyin, kimmun, vietnamese, meaning_en, meaning_fr, category, subcategory, source, page_ref FROM dictionary WHERE 1=1"
+    params = []
+    if category_filter:
+        sql += " AND category = ?"
+        params.append(category_filter)
+    if source_filter != 'All':
+        sql += " AND source = ?"
+        params.append(source_filter)
+    
+    rows = conn.execute(sql, params).fetchall()
+    conn.close()
+    
+    output = io.StringIO()
+    writer = csv.writer(output)
+    writer.writerow(['entry_id', 'chinese', 'pinyin', 'kimmun', 'vietnamese', 'meaning_en', 'meaning_fr', 'category', 'subcategory', 'source', 'page_ref'])
+    for row in rows:
+        writer.writerow(list(row))
+    
+    filename = f"kimmun_export_{source_filter}_{category_filter or 'all'}.csv".replace(' ', '_').replace('(', '').replace(')', '')
+    return Response(
+        '\ufeff' + output.getvalue(),  # BOM for Excel UTF-8 compatibility
+        mimetype='text/csv; charset=utf-8',
+        headers={'Content-Disposition': f'attachment; filename="{filename}"'}
+    )
+
+@app.route('/import_csv', methods=['POST'])
+def import_csv():
+    """Nhận file CSV và cập nhật DB theo entry_id."""
+    if 'file' not in request.files:
+        return jsonify({"error": "Không có file được tải lên."}), 400
+    
+    file = request.files['file']
+    content = file.read().decode('utf-8-sig')  # Xử lý BOM
+    
+    reader = csv.DictReader(io.StringIO(content))
+    conn = get_db_connection()
+    updated = 0
+    errors = []
+    
+    for row in reader:
+        entry_id = row.get('entry_id', '').strip()
+        if not entry_id:
+            continue
+        try:
+            conn.execute("""
+                UPDATE dictionary SET
+                    chinese = ?, pinyin = ?, kimmun = ?, vietnamese = ?,
+                    meaning_en = ?, meaning_fr = ?, category = ?, subcategory = ?, page_ref = ?
+                WHERE entry_id = ?
+            """, (
+                row.get('chinese',''), row.get('pinyin',''), row.get('kimmun',''),
+                row.get('vietnamese',''), row.get('meaning_en',''), row.get('meaning_fr',''),
+                row.get('category',''), row.get('subcategory',''), row.get('page_ref',''),
+                entry_id
+            ))
+            updated += conn.execute("SELECT changes()").fetchone()[0]
+        except Exception as e:
+            errors.append(str(e))
+    
+    conn.commit()
+    conn.close()
+    return jsonify({"updated": updated, "errors": errors})
 
 if __name__ == '__main__':
     print("Khởi chạy máy chủ Web Giao diện Từ Điển tại http://127.0.0.1:5000")
