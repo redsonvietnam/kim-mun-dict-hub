@@ -711,9 +711,12 @@
                     const chinese = entry.chinese ? `<div class="card-chinese">${entry.chinese}</div>` : '';
                     const vietnamese = entry.vietnamese || entry.meaning_en || '...';
 
+                    // Format page reference
+                    const pageRef = entry.page_ref ? `<span style="color: var(--primary-light); font-weight: 600; font-size: 0.8rem;">📖 ${entry.page_ref}</span>` : '';
+                    
                     card.innerHTML = `
                         <div class="card-source-tag ${sourceTag}">${entry.source}</div>
-                        <div class="card-id">#${entry.entry_id}</div>
+                        <div class="card-id">#${entry.entry_id} ${pageRef}</div>
                         ${frenchOrig}
                         <div class="card-main">
                             ${chinese}
@@ -739,7 +742,7 @@
         const tbody = document.getElementById('tableBody');
         thead.innerHTML = `<tr>
             <th>ID</th><th>Hán tự</th><th>Pinyin</th><th>Kim Mun (IPA)</th>
-            <th>Tiếng Việt</th><th>Tiếng Anh</th><th>Nguồn</th><th>Chủ đề</th><th style="width:60px"></th>
+            <th>Tiếng Việt</th><th>Tiếng Anh</th><th>Nguồn</th><th>Trang</th><th>Chủ đề</th><th style="width:60px"></th>
         </tr>`;
         tbody.innerHTML = data.map(e => {
             const srcClass = e.source.includes('Savina') ? 'source-savina' : e.source.includes('Clark') ? 'source-clark' : 'source-shintani';
@@ -751,6 +754,7 @@
                 <td>${e.vietnamese || ''}</td>
                 <td style="color:var(--text-muted);font-style:italic">${e.meaning_en || ''}</td>
                 <td><span class="td-source card-source-tag ${srcClass}">${e.source}</span></td>
+                <td style="color:var(--primary-light);font-weight:600;font-size:0.78rem">${e.page_ref || '—'}</td>
                 <td style="color:var(--text-muted);font-size:0.78rem">${e.category || ''}</td>
                 <td style="color:var(--primary-light);font-size:0.75rem;padding:8px">✏️</td>
             </tr>`;

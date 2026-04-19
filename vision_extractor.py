@@ -16,8 +16,17 @@ if not API_KEY:
     API_KEY = input("Vui lòng nhập Gemini API Key của bạn để tiếp tục: ").strip()
 
 genai.configure(api_key=API_KEY)
-# Sử dụng model có khả năng Vision
-model = genai.GenerativeModel('gemini-1.5-flash')
+# Sử dụng model có khả năng Vision - thử multiple models
+try:
+    model = genai.GenerativeModel('gemini-2.0-flash')
+    print("✅ Sử dụng model: gemini-2.0-flash")
+except:
+    try:
+        model = genai.GenerativeModel('gemini-1.5-pro')
+        print("✅ Sử dụng model: gemini-1.5-pro")
+    except:
+        model = genai.GenerativeModel('gemini-pro-vision')
+        print("✅ Sử dụng model: gemini-pro-vision")
 
 def extract_phonology():
     print("Bắt đầu trích xuất phần Âm vị học (Phonology) - Trang 13 đến 20...")
