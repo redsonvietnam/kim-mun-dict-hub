@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim Mun Unified Hub | Professional Edition</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Outfit:wght@400;600&family=Noto+Serif+SC:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-light: #818cf8;
+            --secondary: #10b981;
+            --bg: #0b1121;
+            --sidebar-bg: #111827;
+            --card-bg: rgba(30, 41, 59, 0.6);
+            --text: #f8fafc;
+            --text-muted: #94a3b8;
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --accent-purple: #c084fc;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: var(--text);
+            margin: 0;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+            background-image: 
+                radial-gradient(circle at 15% 15%, rgba(99, 102, 241, 0.12) 0%, transparent 45%),
+                radial-gradient(circle at 85% 85%, rgba(192, 132, 252, 0.08) 0%, transparent 45%);
+        }
+
+        /* Sidebar Styling */
+        .sidebar {
+            width: 340px;
+            background: var(--sidebar-bg);
+            border-right: 1px solid var(--glass-border);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+            box-shadow: 10px 0 30px rgba(0,0,0,0.3);
+            z-index: 100;
+        }
+
+        .sidebar-header {
+            padding: 35px 30px;
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .logo-container {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .logo-icon {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, var(--primary), var(--accent-purple));
+            border-radius: 8px;
+            display: grid;
+            place-items: center;
+            font-weight: 800;
+            color: white;
+            font-size: 1.2rem;
+        }
+
+        .logo-text {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.6rem;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+            background: linear-gradient(to right, #fff, var(--text-muted));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .sidebar-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 25px 20px;
+        }
+
+        .sidebar-section {
+            margin-bottom: 35px;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding: 0 10px;
+        }
+
+        .section-title {
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.15em;
+        }
+
+        .search-wrapper {
+            position: relative;
+            margin-bottom: 25px;
+        }
+
+        .search-wrapper input {
+            width: 100%;
+            padding: 14px 18px;
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--glass-border);
+            border-radius: 12px;
+            color: white;
+            font-size: 0.9rem;
+            transition: all 0.3s;
+            box-sizing: border-box;
+        }
+
+        .search-wrapper input:focus {
+            outline: none;
+            background: rgba(255,255,255,0.06);
+            border-color: var(--primary);
+            box-shadow: 0 0 0 4px rgba(99, 102, 241, 0.15);
+        }
+
+        .filter-list {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .filter-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 14px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+            color: var(--text-muted);
+            font-size: 0.88rem;
+            font-weight: 500;
+        }
+
+        .filter-item:hover {
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text);
+        }
+
+        .filter-item.active {
+            background: linear-gradient(90deg, rgba(99, 102, 241, 0.15), transparent);
+            color: var(--primary-light);
+            border-left: 3px solid var(--primary);
+        }
+
+        .count-pill {
+            font-size: 0.75rem;
+            background: rgba(0,0,0,0.2);
+            padding: 2px 8px;
+            border-radius: 6px;
+            opacity: 0.6;
+        }
+
+        .main-viewport {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            background: transparent;
+        }
+
+        .header-bar {
+            padding: 30px 50px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(11, 17, 33, 0.4);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--glass-border);
+        }
+
+        .view-title h2 {
+            margin: 0;
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.4rem;
+            font-weight: 500;
+        }
+
+        .view-title p {
+            margin: 5px 0 0;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        .results-grid {
+            flex: 1;
+            overflow-y: auto;
+            padding: 40px 50px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 30px;
+            align-content: start;
+        }
+
+        .card {
+            background: var(--card-bg);
+            backdrop-filter: blur(12px);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 30px;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            min-height: 220px;
+        }
+
+        .card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary);
+            box-shadow: 0 30px 60px -15px rgba(0,0,0,0.5);
+            background: rgba(30, 41, 59, 0.85);
+        }
+
+        .card-source-tag {
+            position: absolute;
+            top: 25px;
+            right: 25px;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 4px 10px;
+            border-radius: 8px;
+            letter-spacing: 0.05em;
+            background: rgba(255,255,255,0.05);
+        }
+
+        .source-savina { color: #10b981; background: rgba(16, 185, 129, 0.12); }
+        .source-clark { color: #3b82f6; background: rgba(59, 130, 246, 0.12); }
+        .source-shintani { color: #f59e0b; background: rgba(245, 158, 11, 0.12); }
+
+        .card-id {
+            font-family: monospace;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-bottom: 10px;
+            opacity: 0.7;
+        }
+
+        .card-main {
+            display: flex;
+            align-items: baseline;
+            gap: 15px;
+            margin-bottom: 5px;
+        }
+
+        .card-chinese {
+            font-family: 'Noto Serif SC', serif;
+            font-size: 1.8rem;
+            color: #fff;
+            text-shadow: 0 0 20px rgba(255,255,255,0.2);
+        }
+
+        .card-vietnamese {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: white;
+        }
+
+        .card-mun {
+            font-family: monospace;
+            color: var(--primary-light);
+            font-size: 1rem;
+            margin-bottom: 12px;
+            background: rgba(99, 102, 241, 0.08);
+            padding: 2px 8px;
+            border-radius: 6px;
+            width: fit-content;
+        }
+
+        .card-english {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            font-style: italic;
+            margin-bottom: 20px;
+            line-height: 1.4;
+            flex-grow: 1;
+        }
+
+        .card-footer {
+            margin-top: auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            padding-top: 15px;
+            border-top: 1px dashed rgba(255,255,255,0.1);
+        }
+
+        .pill {
+            font-size: 0.7rem;
+            font-weight: 600;
+            padding: 3px 10px;
+            border-radius: 6px;
+            background: rgba(255,255,255,0.04);
+            color: var(--text-muted);
+        }
+
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 10px; }
+
+        .funing-toolbar {
+            display: flex;
+            overflow-x: auto;
+            gap: 12px;
+            padding: 15px 50px;
+            background: rgba(0,0,0,0.2);
+            border-bottom: 1px solid var(--glass-border);
+            scrollbar-width: none;
+        }
+        .funing-toolbar::-webkit-scrollbar { display: none; }
+        .funing-tag {
+            padding: 8px 16px;
+            border-radius: 20px;
+            background: rgba(255,255,255,0.05);
+            color: var(--text-muted);
+            white-space: nowrap;
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+        }
+        .funing-tag:hover {
+            background: rgba(255,255,255,0.1);
+            color: white;
+        }
+        .funing-tag.active {
+            background: rgba(99, 102, 241, 0.2);
+            color: var(--primary-light);
+            border-color: var(--primary);
+        }
+    </style>
+</head>
+<body>
+
+<aside class="sidebar">
+    <div class="sidebar-header">
+        <div class="logo-container">
+            <div class="logo-icon">M</div>
+            <span class="logo-text">KIMM HUB</span>
+        </div>
+    </div>
+    
+    <div class="sidebar-content">
+        <div class="search-wrapper">
+            <input type="text" id="sidebarSearch" placeholder="Tìm kiếm tức thì..." autofocus>
+        </div>
+
+        <div class="sidebar-section">
+            <span class="section-title">Nguồn tác giả</span>
+            <div class="filter-list" id="sourceFilters">
+                <div class="filter-item active" data-source="All">Tất cả nguồn</div>
+                <div class="filter-item" data-source="Shintani (2008)">Funing Lexicon</div>
+                <div class="filter-item" data-source="Savina (1926)">Savina 1926</div>
+                <div class="filter-item" data-source="Clark (2000)">Clark 2000</div>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+            <span class="section-title">Chủ đề học thuật</span>
+            <div class="filter-list" id="categoryFilters" style="max-height: 400px;"></div>
+        </div>
+    </div>
+</aside>
+
+<main class="main-viewport">
+    <header class="header-bar">
+        <div class="view-title">
+            <h2 id="viewHeading">Tất cả mục từ</h2>
+            <p id="viewDescription">Dữ liệu hợp nhất từ 3 nguồn học thuật Kim Mun.</p>
+        </div>
+        <div id="resultCount" style="font-weight: 600; color: var(--primary-light);">...</div>
+    </header>
+
+    <div id="funingToolbar" class="funing-toolbar" style="display: none;">
+        <div class="funing-tag active" data-cat="">Tất cả chủ đề Funing</div>
+    </div>
+
+    <div class="results-grid" id="mainGrid"></div>
+</main>
+
+<script>
+    const searchInput = document.getElementById('sidebarSearch');
+    const mainGrid = document.getElementById('mainGrid');
+    const sourceItems = document.querySelectorAll('#sourceFilters .filter-item');
+    const categoryContainer = document.getElementById('categoryFilters');
+    const viewHeading = document.getElementById('viewHeading');
+    const viewDescription = document.getElementById('viewDescription');
+    const resultCount = document.getElementById('resultCount');
+
+    let currentSource = 'All';
+    let currentCategory = '';
+    let debounceTimer;
+
+    fetch('/stats')
+        .then(res => res.json())
+        .then(data => {
+            const funingToolbar = document.getElementById('funingToolbar');
+            data.categories.forEach(cat => {
+                const isFuningCat = cat.category !== 'Savina Dictionary' && cat.category !== 'Khác' && cat.category !== 'Academic';
+                
+                // Add to sidebar
+                const item = document.createElement('div');
+                item.className = 'filter-item';
+                item.innerHTML = `${cat.category} <span class="count-pill">${cat['count(*)']}</span>`;
+                item.onclick = () => {
+                    document.querySelectorAll('.filter-item').forEach(i => i.classList.remove('active'));
+                    item.classList.add('active');
+                    currentCategory = cat.category;
+                    currentSource = 'All';
+                    viewHeading.innerText = cat.category;
+                    performSearch();
+                    document.getElementById('funingToolbar').style.display = 'none';
+                };
+                categoryContainer.appendChild(item);
+
+                // Add to Funing Toolbar
+                if(isFuningCat) {
+                    const tag = document.createElement('div');
+                    tag.className = 'funing-tag';
+                    tag.innerText = cat.category;
+                    tag.onclick = () => {
+                        document.querySelectorAll('.funing-tag').forEach(t => t.classList.remove('active'));
+                        tag.classList.add('active');
+                        currentCategory = cat.category;
+                        performSearch();
+                    };
+                    funingToolbar.appendChild(tag);
+                }
+            });
+            
+            // "All" tag for Toolbar
+            const allTag = funingToolbar.firstElementChild;
+            allTag.onclick = () => {
+                document.querySelectorAll('.funing-tag').forEach(t => t.classList.remove('active'));
+                allTag.classList.add('active');
+                currentCategory = '';
+                performSearch();
+            };
+        });
+
+    sourceItems.forEach(item => {
+        item.onclick = () => {
+            document.querySelectorAll('.filter-item').forEach(i => i.classList.remove('active'));
+            item.classList.add('active');
+            currentSource = item.getAttribute('data-source');
+            currentCategory = '';
+            viewHeading.innerText = currentSource === 'All' ? "Tất cả mục từ" : currentSource;
+            
+            if (currentSource === 'Shintani (2008)') {
+                document.getElementById('funingToolbar').style.display = 'flex';
+                document.querySelectorAll('.funing-tag').forEach(t => t.classList.remove('active'));
+                document.getElementById('funingToolbar').firstElementChild.classList.add('active');
+            } else {
+                document.getElementById('funingToolbar').style.display = 'none';
+            }
+            
+            performSearch();
+        };
+    });
+
+    searchInput.addEventListener('input', () => {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(performSearch, 300);
+    });
+
+    function performSearch() {
+        const query = searchInput.value.trim();
+        let url = `/search?q=${encodeURIComponent(query)}&source=${encodeURIComponent(currentSource)}&category=${encodeURIComponent(currentCategory)}`;
+        
+        mainGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; margin-top: 50px; opacity: 0.5;">Đang tải...</div>';
+
+        fetch(url)
+            .then(res => res.json())
+            .then(data => {
+                mainGrid.innerHTML = '';
+                resultCount.innerText = `${data.length} Kết quả`;
+
+                data.forEach((entry, idx) => {
+                    const card = document.createElement('div');
+                    card.className = 'card';
+                    card.style.animation = `slideUp 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) forwards ${idx * 0.04}s`;
+                    
+                    const sourceTag = entry.source.includes('Savina') ? 'source-savina' : 
+                                      entry.source.includes('Clark') ? 'source-clark' : 'source-shintani';
+                    
+                    const frenchOrig = entry.french_orig ? `<div style="font-size: 0.82rem; color: #a5b4fc; margin-bottom: 6px; font-weight: 500;">Original: ${entry.french_orig}</div>` : '';
+                    const chinese = entry.chinese ? `<div class="card-chinese">${entry.chinese}</div>` : '';
+                    const vietnamese = entry.vietnamese || entry.meaning_en || '...';
+
+                    card.innerHTML = `
+                        <div class="card-source-tag ${sourceTag}">${entry.source}</div>
+                        <div class="card-id">#${entry.entry_id}</div>
+                        ${frenchOrig}
+                        <div class="card-main">
+                            ${chinese}
+                            <div class="card-vietnamese">${vietnamese}</div>
+                        </div>
+                        <div class="card-mun">${entry.kimmun} ${entry.pinyin ? `<span style="opacity: 0.6; margin-left:8px;">[${entry.pinyin}]</span>` : ''}</div>
+                        <div class="card-english">${entry.meaning_en && entry.vietnamese && entry.source.includes('Shintani') ? `Eng: ${entry.meaning_en}` : ''}</div>
+                        <div class="card-footer">
+                            ${entry.category ? `<span class="pill">${entry.category}</span>` : ''}
+                            ${entry.pos ? `<span class="pill">${entry.pos}</span>` : ''}
+                            ${entry.phonetic ? `<span class="pill">/${entry.phonetic}/</span>` : ''}
+                        </div>
+                    `;
+                    mainGrid.appendChild(card);
+                });
+            });
+    }
+
+    performSearch();
+</script>
+
+</body>
+</html>

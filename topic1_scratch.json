@@ -1,0 +1,65 @@
+[
+  {
+    "id": "011016",
+    "hanzi": "星",
+    "pinyin": "xīng",
+    "kimmun": "/tiiŋ/",
+    "vietnamese": "ngôi sao",
+    "english": "star",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011017",
+    "hanzi": "掃帚星",
+    "pinyin": "sàozhǒuxīng",
+    "kimmun": "ba22 dzao53 θiin13",
+    "vietnamese": "sao chổi",
+    "english": "comet",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011018",
+    "hanzi": "流星",
+    "pinyin": "liúxīng",
+    "kimmun": "θiin13 tao13 dai354",
+    "vietnamese": "sao băng",
+    "english": "meteor",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011019",
+    "hanzi": "銀河",
+    "pinyin": "yínhé",
+    "kimmun": "/guuŋ vam/",
+    "vietnamese": "ngân hà",
+    "english": "milky way",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011020",
+    "hanzi": "光",
+    "pinyin": "guāng",
+    "kimmun": "/gwaŋ/",
+    "vietnamese": "ánh sáng",
+    "english": "light",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011021",
+    "hanzi": "閃爍",
+    "pinyin": "shǎnshuò",
+    "kimmun": "/gwaŋ djip/",
+    "vietnamese": "nhấp nháy, lấp lánh",
+    "english": "to twinkle",
+    "subcategory": "011. Sky, weather, light"
+  },
+  {
+    "id": "011036",
+    "hanzi": "雨",
+    "pinyin": "yǔ",
+    "kimmun": "/buŋ/",
+    "vietnamese": "mưa",
+    "english": "rain",
+    "subcategory": "011. Sky, weather, light"
+  }
+]

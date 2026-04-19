@@ -1,0 +1,22 @@
+FRENCH_ORIG | VIETNAMESE | KIMMUN | MEANING_EN
+--------------------------------------------------
+Arroyo | [Dịch từ Pháp: Arroyo] | ván g kien du ton | (French) Arroyo
+Côte (pente) | [Dịch từ Pháp: Côte (pente)] | chu i | (French) Côte (pente)
+Dire | [Dịch từ Pháp: Dire] | la vérité cóng sien cóng chien | (French) Dire
+Mentir | [Dịch từ Pháp: Mentir] | cóng chá cóng chá | (French) Mentir
+Langue | Lưỡi | biët biêt | (French) Langue
+Pierre | Đá | nom ghêâu lap piêy | (French) Pierre
+Chemin | [Dịch từ Pháp: Chemin] | boueux tiu kiáu nài pam kiáo don g | (French) Chemin
+Enrhumé | [Dịch từ Pháp: Enrhumé] | lue ha put ha | (French) Enrhumé
+Se | [Dịch từ Pháp: Se] | reposer hït khôn hit khon | (French) Se
+Lever | [Dịch từ Pháp: Lever] | du soleil bô nói xláo ban n'hoi xâo | (French) Lever
+Coucher | [Dịch từ Pháp: Coucher] | du soleil bô nói gia ban n'hoi già | (French) Coucher
+Monter | [Dịch từ Pháp: Monter] | xláo xâo | (French) Monter
+Descendre | [Dịch từ Pháp: Descendre] | gi? già | (French) Descendre
+Clair | [Dịch từ Pháp: Clair] | de lune là goáng n'ha nhut guêâng | (French) Clair
+Arbre | Cây | ghiáng diâng | (French) Arbre
+Racine | [Dịch từ Pháp: Racine] | ghiáng duông ctiáng con | (French) Racine
+Feuille | [Dịch từ Pháp: Feuille] | ghiáng nom diâng nom | (French) Feuille
+Écorce | [Dịch từ Pháp: Écorce] | ghiáng cîôp diâng dôp | (French) Écorce
+Branche | [Dịch từ Pháp: Branche] | ghiáng qua diâng xa | (French) Branche
+Cime | [Dịch từ Pháp: Cime] | de l'arbre ghiáng čténg diâng tuêy | (French) Cime

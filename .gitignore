@@ -1,0 +1,25 @@
+# Git Ignore for Kim Mun Dict Project
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+bin/
+lib/
+include/
+.idea/
+.vscode/
+*.db
+*.png
+*.jpg
+*.jpeg
+*.pdf
+funing_final_master_cleaned.json
+funing_topic1_clean.json
+funing_topic1_vision.json
+topic1_p*.png
+phonology_p*.png
+*.log
+.ai_context/BACKUP/

@@ -1,0 +1,3679 @@
+[
+    {
+        "id": "001",
+        "english": "ant",
+        "kimmun_v1": "θɐw³³",
+        "kimmun_v2": "ɡuŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "002",
+        "english": "bat",
+        "kimmun_v1": "klɐ.buj⁵²",
+        "kimmun_v2": "mə.nɔj³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "003",
+        "english": "bear",
+        "kimmun_v1": "kjɐp³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "003a",
+        "english": "the",
+        "kimmun_v1": "sun",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "004",
+        "english": "bee",
+        "kimmun_v1": "mɐj³⁴¹muŋ⁴⁴",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "003b",
+        "english": "the",
+        "kimmun_v1": "sun",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "005",
+        "english": "bird",
+        "kimmun_v1": "nɔ³³",
+        "kimmun_v2": "laː³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "004a",
+        "english": "the",
+        "kimmun_v1": "sun",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "006",
+        "english": "buffalo",
+        "kimmun_v1": "ŋɔŋ¹¹",
+        "kimmun_v2": "θin⁵³taw¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "004b",
+        "english": "the",
+        "kimmun_v1": "sun",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "007",
+        "english": "cat",
+        "kimmun_v1": "maːw¹¹",
+        "kimmun_v2": "ɡwaŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "008",
+        "english": "caterpillar",
+        "kimmun_v1": "buŋ³³blɐw³⁴¹",
+        "kimmun_v2": "bə.ɡloj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "009",
+        "english": "centipede",
+        "kimmun_v1": "θap⁵²",
+        "kimmun_v2": "twinkle",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "010",
+        "english": "chicken",
+        "kimmun_v1": "cock",
+        "kimmun_v2": "ɡwaŋ⁵³daŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "011",
+        "english": "chicken",
+        "kimmun_v1": "hen",
+        "kimmun_v2": "ȡam²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "012",
+        "english": "chicken",
+        "kimmun_v1": "ȶɐj²¹⁴",
+        "kimmun_v2": "van¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "013",
+        "english": "cow/ox",
+        "kimmun_v1": "ŋɔ¹¹waːŋ¹¹",
+        "kimmun_v2": "buŋ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "014",
+        "english": "crab",
+        "kimmun_v1": "kjɐm³⁵ȵaj²¹⁴",
+        "kimmun_v2": "ɡuŋ³¹ɡaːŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "015",
+        "english": "cricket",
+        "kimmun_v1": "kjɛŋ²¹⁴kjo³¹",
+        "kimmun_v2": "buŋ²¹bit³¹to³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "016",
+        "english": "crow",
+        "kimmun_v1": "ku.aː³¹",
+        "kimmun_v2": "bu.ɡɔŋ⁵³haːw³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "017",
+        "english": "barking",
+        "kimmun_v1": "deer",
+        "kimmun_v2": "ȡaːw¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "018",
+        "english": "sambar",
+        "kimmun_v1": "deer",
+        "kimmun_v2": "ȡaw¹³kja⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "019",
+        "english": "dog",
+        "kimmun_v1": "klu⁴⁴",
+        "kimmun_v2": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "020",
+        "english": "dragon",
+        "kimmun_v1": "kuŋ²¹⁴",
+        "kimmun_v2": "melt",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "021",
+        "english": "dragon",
+        "kimmun_v1": "fly",
+        "kimmun_v2": "pjɔ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "022",
+        "english": "duck1",
+        "kimmun_v1": "aːp¹¹",
+        "kimmun_v2": "si³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "023",
+        "english": "duck2",
+        "kimmun_v1": "-----------",
+        "kimmun_v2": "day,",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "024",
+        "english": "eagle",
+        "kimmun_v1": "klaːŋ⁴⁴",
+        "kimmun_v2": "day",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "025",
+        "english": "fish",
+        "kimmun_v1": "bjaw³⁴¹",
+        "kimmun_v2": "ɡuŋ⁵³haːn³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "026",
+        "english": "flea",
+        "kimmun_v1": "klɐ.muŋ⁵²",
+        "kimmun_v2": "bə.ȡam²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "027",
+        "english": "fly",
+        "kimmun_v1": "kjɛŋ²¹⁴ɡjɐm⁵²",
+        "kimmun_v2": "mə.nɔj³⁵ȶaː¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "028",
+        "english": "frog",
+        "kimmun_v1": "ȶɛŋ⁴⁴",
+        "kimmun_v2": "bu.dom⁵³tɔn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "029",
+        "english": "goat",
+        "kimmun_v1": "juŋ¹¹",
+        "kimmun_v2": "dum³¹nɔj³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "030",
+        "english": "grasshopper",
+        "kimmun_v1": "kjɛŋ²¹⁴bo³¹",
+        "kimmun_v2": "kum³¹nɔj³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "031",
+        "english": "horse",
+        "kimmun_v1": "ma³⁴¹",
+        "kimmun_v2": "saŋ³¹dom⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "032",
+        "english": "insect",
+        "kimmun_v1": "kjɛŋ²¹⁴",
+        "kimmun_v2": "ȵaŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "033",
+        "english": "leech,",
+        "kimmun_v1": "dry",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "034",
+        "english": "leech,",
+        "kimmun_v1": "wet",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "035",
+        "english": "lizard",
+        "kimmun_v1": "bɐ.koŋ¹¹saː⁵²",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "033a",
+        "english": "east",
+        "kimmun_v1": "tɔŋ⁵³faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "036",
+        "english": "louse,",
+        "kimmun_v1": "head",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "033b",
+        "english": "east",
+        "kimmun_v1": "mə.nɔj³⁵sɛt³¹faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "037",
+        "english": "monkey",
+        "kimmun_v1": "biŋ²¹⁴",
+        "kimmun_v2": "ɡuŋ³¹sin³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "034a",
+        "english": "west",
+        "kimmun_v1": "fe⁵³faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "038",
+        "english": "mosquito",
+        "kimmun_v1": "kjɛŋ²¹⁴",
+        "kimmun_v2": "wɔm⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "034b",
+        "english": "west",
+        "kimmun_v1": "mə.nɔj³⁴¹mot²¹ȶəj³¹faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "039",
+        "english": "pig",
+        "kimmun_v1": "tuŋ³¹",
+        "kimmun_v2": "wɔm⁵³lu³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "035a",
+        "english": "north",
+        "kimmun_v1": "pu³³faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "040",
+        "english": "bore",
+        "kimmun_v1": "tuŋ³¹kɐw⁴⁴",
+        "kimmun_v2": "wɔm⁵³nɔ³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "035b",
+        "english": "north",
+        "kimmun_v1": "ȶa³¹le³⁵faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "041",
+        "english": "piglet",
+        "kimmun_v1": "tuŋ³¹kjɐn²¹⁴",
+        "kimmun_v2": "koj¹¹lu³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "036a",
+        "english": "south",
+        "kimmun_v1": "naːm³¹faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "042",
+        "english": "pig",
+        "kimmun_v1": "sow",
+        "kimmun_v2": "soil",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "036b",
+        "english": "south",
+        "kimmun_v1": "ku³³le³⁵faːn¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "043",
+        "english": "rat",
+        "kimmun_v1": "du²¹⁴",
+        "kimmun_v2": "ni³⁵pam²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "044",
+        "english": "shrimp",
+        "kimmun_v1": "ȶa³¹kɔŋ²¹⁴",
+        "kimmun_v2": "ni³⁵buŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "045",
+        "english": "snail",
+        "kimmun_v1": "kwɐj²¹⁴",
+        "kimmun_v2": "ɡjaːw⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "046",
+        "english": "snake",
+        "kimmun_v1": "naːŋ²¹⁴",
+        "kimmun_v2": "ɡjaw⁵³θaj⁵³ȵɔt³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "047",
+        "english": "sparrow",
+        "kimmun_v1": "nɔ³³kɐj³³",
+        "kimmun_v2": "ɡjaw⁵³θaj⁵³min³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "048",
+        "english": "spider",
+        "kimmun_v1": "kjɛŋ²¹⁴ȵaː⁴⁴",
+        "kimmun_v2": "səm⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "049",
+        "english": "tiger",
+        "kimmun_v1": "ɡjaːn¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "050",
+        "english": "turtle",
+        "kimmun_v1": "pit³¹",
+        "kimmun_v2": "ɡjaː³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "051",
+        "english": "wasp",
+        "kimmun_v1": "mɐj³⁴¹",
+        "kimmun_v2": "θe⁵³ȶuŋ³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "052",
+        "english": "weasel",
+        "kimmun_v1": "kin¹¹maːw¹¹",
+        "kimmun_v2": "ȶɔŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "053",
+        "english": "earthworm",
+        "kimmun_v1": "nuŋ¹¹naŋ²¹⁴",
+        "kimmun_v2": "ȶə.bɛŋ³¹kɔt³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "054",
+        "english": "goose",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "ɡuŋ",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "055",
+        "english": "pangolin",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "ɡlaːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "049a",
+        "english": "silver",
+        "kimmun_v1": "ȵan³¹pɛ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "049b",
+        "english": "silver",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "056",
+        "english": "arm",
+        "kimmun_v1": "pu.θe⁵²",
+        "kimmun_v2": "ɡjaw⁵³bɛŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "057",
+        "english": "back",
+        "kimmun_v1": "kɐ.tan⁴⁴kaŋ²¹⁴",
+        "kimmun_v2": "sun³⁵ȶa:w⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "058",
+        "english": "beard",
+        "kimmun_v1": "θɔm⁵²",
+        "kimmun_v2": "kɔt³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "059",
+        "english": "belly",
+        "kimmun_v1": "ȵo³³",
+        "kimmun_v2": "wɔm⁵³kat³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "060",
+        "english": "blood",
+        "kimmun_v1": "θaːm³³",
+        "kimmun_v2": "flow",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "061",
+        "english": "body",
+        "kimmun_v1": "θin⁵²",
+        "kimmun_v2": "wɔm⁵³jaːm¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "062",
+        "english": "bone",
+        "kimmun_v1": "θuŋ⁴⁴",
+        "kimmun_v2": "float",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "063",
+        "english": "brain",
+        "kimmun_v1": "pi⁴⁴le⁴⁴",
+        "kimmun_v2": "sink",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "064",
+        "english": "butt",
+        "kimmun_v1": "kɐ.tlaj⁴⁴kɐ⁵²",
+        "kimmun_v2": "wɔm⁵³tuj³¹ȶaːm³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "065",
+        "english": "chest",
+        "kimmun_v1": "kɐ.lap³¹",
+        "kimmun_v2": "wɔm⁵³ɡjɛŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "066",
+        "english": "cockcmbi",
+        "kimmun_v1": "ɡɐn²¹⁴",
+        "kimmun_v2": "wɔm⁵³ɡap²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "067",
+        "english": "corpse",
+        "kimmun_v1": "mun¹¹tɐj³³",
+        "kimmun_v2": "kim³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "068",
+        "english": "ears",
+        "kimmun_v1": "mɐ.nɔm¹¹",
+        "kimmun_v2": "ɡjaŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "069",
+        "english": "egg",
+        "kimmun_v1": "kjaw³⁵",
+        "kimmun_v2": "ɡjaŋ³³ɡwaː³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "070",
+        "english": "eye",
+        "kimmun_v1": "mɐj³³",
+        "kimmun_v2": "bark",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "071",
+        "english": "eyebrows",
+        "kimmun_v1": "mɐj³³maːj³¹",
+        "kimmun_v2": "ȡim³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "072",
+        "english": "face",
+        "kimmun_v1": "min⁵²",
+        "kimmun_v2": "ɡjaŋ³³duŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "073",
+        "english": "excrement",
+        "kimmun_v1": "dɐj⁴⁴",
+        "kimmun_v2": "nɔm³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "074",
+        "english": "finger",
+        "kimmun_v1": "pu.dɔ³¹",
+        "kimmun_v2": "ɡjaŋ³³faːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "075",
+        "english": "fingernail",
+        "kimmun_v1": "pu.dɔ³¹waj³⁵",
+        "kimmun_v2": "ɡjaŋ³³pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "076",
+        "english": "foot",
+        "kimmun_v1": "(surface)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "077",
+        "english": "hair",
+        "kimmun_v1": "of",
+        "kimmun_v2": "maː¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "078",
+        "english": "hair",
+        "kimmun_v1": "of",
+        "kimmun_v2": "laːw¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "079",
+        "english": "hair",
+        "kimmun_v1": "of",
+        "kimmun_v2": "shoot",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "080",
+        "english": "hand",
+        "kimmun_v1": "pu.pen⁴⁴",
+        "kimmun_v2": "pole",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "081",
+        "english": "head",
+        "kimmun_v1": "pje⁴⁴",
+        "kimmun_v2": "tree",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "082",
+        "english": "heart",
+        "kimmun_v1": "θin²¹⁴taw³¹",
+        "kimmun_v2": "so⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "083",
+        "english": "hip",
+        "kimmun_v1": "kɐ.tlaj⁴⁴tuj⁴⁴",
+        "kimmun_v2": "kum³¹saː¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "076a",
+        "english": "seed",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "084",
+        "english": "hoof",
+        "kimmun_v1": "θaw³⁵dɔ³¹waj³⁵",
+        "kimmun_v2": "θɛn⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "076b",
+        "english": "seed",
+        "kimmun_v1": "nɔm⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "085",
+        "english": "horn",
+        "kimmun_v1": "kjɔŋ²¹⁴",
+        "kimmun_v2": "kum³¹ȶaw³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "086",
+        "english": "intestine",
+        "kimmun_v1": "klaːŋ¹¹",
+        "kimmun_v2": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "087",
+        "english": "leg",
+        "kimmun_v1": "θaw³⁵",
+        "kimmun_v2": "θin³¹dɔ³⁴¹pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "088",
+        "english": "liver",
+        "kimmun_v1": "ɡjɐn⁵²",
+        "kimmun_v2": "mak²¹paw³³pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "089",
+        "english": "lungs",
+        "kimmun_v1": "klum⁵²",
+        "kimmun_v2": "dum³¹daw³⁴¹pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "090",
+        "english": "milk",
+        "kimmun_v1": "nu⁴⁴",
+        "kimmun_v2": "kwa⁵³θaːj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "091",
+        "english": "mouth",
+        "kimmun_v1": "ȡɐt³³",
+        "kimmun_v2": "mak²¹pom³¹pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "092",
+        "english": "mucus",
+        "kimmun_v1": "blut³³",
+        "kimmun_v2": "kə.daŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "093",
+        "english": "neck",
+        "kimmun_v1": "klaːŋ²¹⁴",
+        "kimmun_v2": "tə.bwe³³ni³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "094",
+        "english": "nest",
+        "kimmun_v1": "ɡjaw³⁴¹",
+        "kimmun_v2": "θuŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "095",
+        "english": "nose",
+        "kimmun_v1": "pu.ȶɔŋ²¹⁴",
+        "kimmun_v2": "tun³⁵pje³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "096",
+        "english": "pus",
+        "kimmun_v1": "nuŋ³³",
+        "kimmun_v2": "husk",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "097",
+        "english": "ribs",
+        "kimmun_v1": "ȵɔ¹¹tam⁴⁴θuŋ⁴⁴",
+        "kimmun_v2": "potato",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "098",
+        "english": "saliva",
+        "kimmun_v1": "ȡaːn¹¹",
+        "kimmun_v2": "fə.laŋ⁵³doj³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "099",
+        "english": "shoulder",
+        "kimmun_v1": "pɐ.taw¹¹",
+        "kimmun_v2": "hoʔ¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "100",
+        "english": "skin",
+        "kimmun_v1": "tɐ.dup³¹",
+        "kimmun_v2": "ɡjaŋ³³kwaː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "101",
+        "english": "tail",
+        "kimmun_v1": "tɐj⁴⁴",
+        "kimmun_v2": "kwa⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "102",
+        "english": "tears",
+        "kimmun_v1": "mɐj³³wɐm²¹⁴",
+        "kimmun_v2": "tə.bak²¹pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "103",
+        "english": "thigh",
+        "kimmun_v1": "θaw³⁵bɔŋ³⁵",
+        "kimmun_v2": "pjaw³³pjo³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "104",
+        "english": "toe",
+        "kimmun_v1": "θaw³⁵dɔ³¹",
+        "kimmun_v2": "bean",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "105",
+        "english": "tongue",
+        "kimmun_v1": "bjɐt³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "106",
+        "english": "tusk",
+        "kimmun_v1": "ȵaː¹¹",
+        "kimmun_v2": "tɔŋ³³pɔŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "107",
+        "english": "boil/ulcer",
+        "kimmun_v1": "bew³⁴¹",
+        "kimmun_v2": "sprout",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "108",
+        "english": "urine",
+        "kimmun_v1": "wa³⁴¹",
+        "kimmun_v2": "aj³³jin³⁵ȶə.daj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "109",
+        "english": "waist",
+        "kimmun_v1": "klaːj⁴⁴",
+        "kimmun_v2": "daw³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "110",
+        "english": "chin",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "məj³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "111",
+        "english": "heel",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "sauce",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "112",
+        "english": "navel",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "toŋ³¹van¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "105a",
+        "english": "sesame",
+        "kimmun_v1": "θa³⁵pɛ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "113",
+        "english": "bank",
+        "kimmun_v1": "river",
+        "kimmun_v2": "sugar",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "105b",
+        "english": "sesame",
+        "kimmun_v1": "θa³⁵kja⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "114",
+        "english": "cave",
+        "kimmun_v1": "ŋaːm¹¹",
+        "kimmun_v2": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "115",
+        "english": "cliff",
+        "kimmun_v1": "ɡjaw²¹⁴pje³¹",
+        "kimmun_v2": "pepper",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "116",
+        "english": "cloud",
+        "kimmun_v1": "vɐn³⁵",
+        "kimmun_v2": "water",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "117",
+        "english": "copper",
+        "kimmun_v1": "tɔŋ¹¹",
+        "kimmun_v2": "ȶaː³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "118",
+        "english": "ditch",
+        "kimmun_v1": "θin³⁵wɐm²¹⁴",
+        "kimmun_v2": "blaw³¹ȶe⁵³tiw³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "119",
+        "english": "earth",
+        "kimmun_v1": "ni⁵²",
+        "kimmun_v2": "jin³⁵bjaːt³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "120",
+        "english": "fog",
+        "kimmun_v1": "kjaː³⁵",
+        "kimmun_v2": "smoke",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "121",
+        "english": "forest",
+        "kimmun_v1": "kim¹¹",
+        "kimmun_v2": "cook",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "122",
+        "english": "gold",
+        "kimmun_v1": "sɐm²¹⁴",
+        "kimmun_v2": "wash",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "123",
+        "english": "iron",
+        "kimmun_v1": "ɡjaː⁵²",
+        "kimmun_v2": "cut",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "124",
+        "english": "lightening",
+        "kimmun_v1": "buŋ³³bit³¹to⁵²",
+        "kimmun_v2": "cut",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "125",
+        "english": "mountain",
+        "kimmun_v1": "ȶɔŋ²¹⁴",
+        "kimmun_v2": "chop/mince",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "126",
+        "english": "mud",
+        "kimmun_v1": "paːm³³",
+        "kimmun_v2": "board",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "127",
+        "english": "pond",
+        "kimmun_v1": "bjaw³⁴¹klaːŋ¹¹",
+        "kimmun_v2": "θaːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "128",
+        "english": "rain",
+        "kimmun_v1": "buŋ³³lu⁵²",
+        "kimmun_v2": "pan",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "129",
+        "english": "river",
+        "kimmun_v1": "kɔj³³",
+        "kimmun_v2": "stir",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "130",
+        "english": "salt",
+        "kimmun_v1": "daːw³³",
+        "kimmun_v2": "knead",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "131",
+        "english": "sand",
+        "kimmun_v1": "ɡjaw²¹⁴θaːj²¹⁴",
+        "kimmun_v2": "pound",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "132",
+        "english": "silver",
+        "kimmun_v1": "ȵaːn¹¹",
+        "kimmun_v2": "put",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "133",
+        "english": "sky",
+        "kimmun_v1": "ɡuŋ¹¹",
+        "kimmun_v2": "pour",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "134",
+        "english": "stone",
+        "kimmun_v1": "ɡjaw²¹⁴",
+        "kimmun_v2": "squeeze",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "135",
+        "english": "sun",
+        "kimmun_v1": "mɐ.nɔj⁵²",
+        "kimmun_v2": "crack",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "136",
+        "english": "sunshine",
+        "kimmun_v1": "ɡuŋ¹¹kjɔm²¹⁴",
+        "kimmun_v2": "boil",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "137",
+        "english": "thunder",
+        "kimmun_v1": "bu.kɔŋ²¹⁴",
+        "kimmun_v2": "stir",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "138",
+        "english": "water",
+        "kimmun_v1": "wɐm²¹⁴",
+        "kimmun_v2": "fry",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "139",
+        "english": "wind",
+        "kimmun_v1": "ȡaːw³⁵",
+        "kimmun_v2": "steam",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "140",
+        "english": "(corrupt",
+        "kimmun_v1": "file)",
+        "kimmun_v2": "roast",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "141",
+        "english": "banana",
+        "kimmun_v1": "kum¹¹ȶaw³⁴¹",
+        "kimmun_v2": "bake",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "142",
+        "english": "banana",
+        "kimmun_v1": "flower",
+        "kimmun_v2": "taste",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "143",
+        "english": "banana",
+        "kimmun_v1": "leaf",
+        "kimmun_v2": "set",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "144",
+        "english": "bean",
+        "kimmun_v1": "tɔp³³",
+        "kimmun_v2": "ɡaj¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "145",
+        "english": "cabbage",
+        "kimmun_v1": "ȵe¹¹ɡjaj³⁵",
+        "kimmun_v2": "dip",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "146",
+        "english": "chili",
+        "kimmun_v1": "pepper",
+        "kimmun_v2": "wan³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "147",
+        "english": "cogongrass",
+        "kimmun_v1": "ɡaːn²¹⁴",
+        "kimmun_v2": "baːn³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "148",
+        "english": "corn",
+        "kimmun_v1": "buŋ³³mɐj³⁴¹",
+        "kimmun_v2": "ȶo²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "149",
+        "english": "cotton",
+        "kimmun_v1": "buj³³min³¹",
+        "kimmun_v2": "ȶə.kun⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "150",
+        "english": "cucumber",
+        "kimmun_v1": "kwa²¹⁴kjo³¹",
+        "kimmun_v2": "ȵɛw²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "151",
+        "english": "eggplant",
+        "kimmun_v1": "kɐ.taŋ⁴⁴",
+        "kimmun_v2": "ȶɔk²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "152",
+        "english": "fat",
+        "kimmun_v1": "mɐj⁵²",
+        "kimmun_v2": "grow",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "153",
+        "english": "flower",
+        "kimmun_v1": "faŋ¹¹",
+        "kimmun_v2": "blaw³¹jaːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "154",
+        "english": "fruit",
+        "kimmun_v1": "pjo⁴⁴",
+        "kimmun_v2": "sprout",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "155",
+        "english": "garlic",
+        "kimmun_v1": "tun⁵²",
+        "kimmun_v2": "shade",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "156",
+        "english": "grass",
+        "kimmun_v1": "maː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "157",
+        "english": "indigo",
+        "kimmun_v1": "ɡam¹¹",
+        "kimmun_v2": "ripen",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "158",
+        "english": "leaf",
+        "kimmun_v1": "nɔm¹¹",
+        "kimmun_v2": "lut³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "159",
+        "english": "medicine",
+        "kimmun_v1": "maː³³",
+        "kimmun_v2": "tɔp³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "160",
+        "english": "melon",
+        "kimmun_v1": "kwa²¹⁴",
+        "kimmun_v2": "wither",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "161",
+        "english": "mushroom",
+        "kimmun_v1": "so²¹⁴",
+        "kimmun_v2": "decay",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "162",
+        "english": "pumpkin",
+        "kimmun_v1": "kjɛŋ¹¹kwa²¹⁴waŋ³¹",
+        "kimmun_v2": "θuŋ³⁵haw³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "163",
+        "english": "rice",
+        "kimmun_v1": "blaw¹¹",
+        "kimmun_v2": "ɡjaːn³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "164",
+        "english": "rice",
+        "kimmun_v1": "glutinous",
+        "kimmun_v2": "kjap²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "165",
+        "english": "rice",
+        "kimmun_v1": "grilled",
+        "kimmun_v2": "ȶim³³ȡaːj³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "166",
+        "english": "porridge",
+        "kimmun_v1": "naŋ³¹su³⁵",
+        "kimmun_v2": "du⁵³kuk³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "167",
+        "english": "ricedgi.wav",
+        "kimmun_v1": "sɔŋ³⁵",
+        "kimmun_v2": "tu³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "168",
+        "english": "rice",
+        "kimmun_v1": "spike",
+        "kimmun_v2": "dəj²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "169",
+        "english": "soup",
+        "kimmun_v1": "je³³wɐm²¹⁴",
+        "kimmun_v2": "klu³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "170",
+        "english": "sugarcane",
+        "kimmun_v1": "ku¹¹saː³⁵",
+        "kimmun_v2": "bark",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "171",
+        "english": "taro",
+        "kimmun_v1": "ho³³bu³³",
+        "kimmun_v2": "bite",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "172",
+        "english": "thorn",
+        "kimmun_v1": "ȡim⁴⁴",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "173",
+        "english": "tobacco",
+        "kimmun_v1": "jin³¹ȶaj³⁴¹",
+        "kimmun_v2": "tuŋ³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "174",
+        "english": "tree",
+        "kimmun_v1": "ɡjaːŋ³⁵",
+        "kimmun_v2": "ŋɔŋ³³waːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "175",
+        "english": "tree",
+        "kimmun_v1": "trunk",
+        "kimmun_v2": "nu³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "176",
+        "english": "vegetable",
+        "kimmun_v1": "ɡjɐj²¹⁴",
+        "kimmun_v2": "ŋɔŋ³³bu¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "177",
+        "english": "wine/alcohol",
+        "kimmun_v1": "tiw⁴⁴",
+        "kimmun_v2": "kjoŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "178",
+        "english": "moss",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "təj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "179",
+        "english": "mustards",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "kjaŋ³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "180",
+        "english": "onion",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "nɔ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "172a",
+        "english": "cat",
+        "kimmun_v1": "maːw³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "181",
+        "english": "pomelo",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "nest",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "172b",
+        "english": "cat",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "182",
+        "english": "dream",
+        "kimmun_v1": "be³⁵",
+        "kimmun_v2": "daːt⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "183",
+        "english": "name",
+        "kimmun_v1": "bu³⁵",
+        "kimmun_v2": "nɔ²¹pje⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "184",
+        "english": "price",
+        "kimmun_v1": "pɐ.laj⁵²",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "185",
+        "english": "afternoon",
+        "kimmun_v1": "kaj³³ȡam³⁵",
+        "kimmun_v2": "kjaw¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "186",
+        "english": "day",
+        "kimmun_v1": "mɐ.nɔj⁵²ȶaː³⁵",
+        "kimmun_v2": "ȶe⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "187",
+        "english": "evening",
+        "kimmun_v1": "ȡaːm³³",
+        "kimmun_v2": "aːp⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "188",
+        "english": "midday",
+        "kimmun_v1": "mɐ.nɔj⁵²ȶaː³⁵",
+        "kimmun_v2": "bjaw³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "189",
+        "english": "moon",
+        "kimmun_v1": "laː⁴⁴",
+        "kimmun_v2": "naːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "190",
+        "english": "morning",
+        "kimmun_v1": "bɐ.tɔm²¹⁴ɡjo³¹",
+        "kimmun_v2": "lizard",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "191",
+        "english": "night",
+        "kimmun_v1": "ȡaːm³³",
+        "kimmun_v2": "tu²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "184a",
+        "english": "to",
+        "kimmun_v1": "fly",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "192",
+        "english": "year",
+        "kimmun_v1": "ȵaŋ⁵²",
+        "kimmun_v2": "tu³³ȵe³⁴¹tu³³daːn³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "184b",
+        "english": "to",
+        "kimmun_v1": "fly",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "193",
+        "english": "new",
+        "kimmun_v1": "year",
+        "kimmun_v2": "ȶɛŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "194",
+        "english": "ancestor",
+        "kimmun_v1": "θɐm¹¹sɐw⁴⁴",
+        "kimmun_v2": "ȶɛŋ³³plɔŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "195",
+        "english": "bride",
+        "kimmun_v1": "ȵɑm²¹⁴",
+        "kimmun_v2": "kjiŋ⁵³ȵaː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "o",
+        "english": "brother",
+        "kimmun_v1": "tɑ¹¹",
+        "kimmun_v2": "o³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "196",
+        "english": "o.",
+        "kimmun_v1": "brother",
+        "kimmun_v2": "web",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "y",
+        "english": "brother",
+        "kimmun_v1": "jo³⁴¹",
+        "kimmun_v2": "mu³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "197",
+        "english": "y.",
+        "kimmun_v1": "brother",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "198",
+        "english": "child",
+        "kimmun_v1": "mun¹¹sɐj⁴⁴",
+        "kimmun_v2": "sə.blaːw³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "199",
+        "english": "daughter",
+        "kimmun_v1": "mun¹¹sɑ⁵²",
+        "kimmun_v2": "bjan³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "200",
+        "english": "descendant",
+        "kimmun_v1": "se⁴⁴θun²¹⁴",
+        "kimmun_v2": "kwe⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "201",
+        "english": "father’s",
+        "kimmun_v1": "older",
+        "kimmun_v2": "ȶim⁵³ȶaːj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "202",
+        "english": "father’s",
+        "kimmun_v1": "younger",
+        "kimmun_v2": "məj³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "203",
+        "english": "grandfather",
+        "kimmun_v1": "klɑw³⁴¹",
+        "kimmun_v2": "kjiŋ⁵³ɡjəm³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "204",
+        "english": "grandmother",
+        "kimmun_v1": "bo³⁴¹",
+        "kimmun_v2": "pluŋ³¹blo³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "197a",
+        "english": "louse",
+        "kimmun_v1": "(head)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "205",
+        "english": "groom",
+        "kimmun_v1": "lɑŋ¹¹",
+        "kimmun_v2": "θap³¹kɔŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "197b",
+        "english": "louse",
+        "kimmun_v1": "(head)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "206",
+        "english": "guest",
+        "kimmun_v1": "ȶɛ⁵²",
+        "kimmun_v2": "duŋ³¹naːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "207",
+        "english": "host,",
+        "kimmun_v1": "owner",
+        "kimmun_v2": "pje³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "208",
+        "english": "husband",
+        "kimmun_v1": "fɑ⁴⁴",
+        "kimmun_v2": "min³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "209",
+        "english": "lover",
+        "kimmun_v1": "mun¹¹ɔj³⁵",
+        "kimmun_v2": "pje³³le²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "210",
+        "english": "man",
+        "kimmun_v1": "mun¹¹fɑ⁴⁴",
+        "kimmun_v2": "pje³³doŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "211",
+        "english": "mother’s",
+        "kimmun_v1": "brother",
+        "kimmun_v2": "min³⁵dup²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "212",
+        "english": "mother’s",
+        "kimmun_v1": "mother",
+        "kimmun_v2": "məj²¹jap³⁵pje⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "213",
+        "english": "mother",
+        "kimmun_v1": "ȡi³⁴¹",
+        "kimmun_v2": "məj²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "214",
+        "english": "mother’s",
+        "kimmun_v1": "sister",
+        "kimmun_v2": "məj²¹dup²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "215",
+        "english": "o.",
+        "kimmun_v1": "sister",
+        "kimmun_v2": "bu.ȶɔŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "216",
+        "english": "y.",
+        "kimmun_v1": "sister",
+        "kimmun_v2": "min³⁵uj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "217",
+        "english": "son",
+        "kimmun_v1": "mun¹¹tɔn²¹⁴",
+        "kimmun_v2": "mə.nɔm³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "218",
+        "english": "widow",
+        "kimmun_v1": "ɡjɐm³³fɑ⁴⁴ɑw⁴⁴",
+        "kimmun_v2": "ȡɛt²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "219",
+        "english": "wife",
+        "kimmun_v1": "ɑw⁴⁴",
+        "kimmun_v2": "bjɛt³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "220",
+        "english": "woman",
+        "kimmun_v1": "mun¹¹ȡi³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "221",
+        "english": "artisan",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "ȵaː³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "222",
+        "english": "daughter-in-law",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "ȵa³¹lɔŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "223",
+        "english": "nung",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "klaŋ⁵³ŋam³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "224",
+        "english": "widower",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "ȡɛt²¹θɔm³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "225",
+        "english": "blouse",
+        "kimmun_v1": "ɡjɐm⁴⁴",
+        "kimmun_v2": "tan³³kaːn⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "226",
+        "english": "bracelet",
+        "kimmun_v1": "sɑm¹¹",
+        "kimmun_v2": "ȵo¹¹dut⁵³klaːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "227",
+        "english": "cloth",
+        "kimmun_v1": "buj³⁵",
+        "kimmun_v2": "θim⁵³taːw³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "228",
+        "english": "clothing",
+        "kimmun_v1": "ŋuj²¹⁴kwɑ⁵²",
+        "kimmun_v2": "klum³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "220a",
+        "english": "saliva",
+        "kimmun_v1": "ȡan³¹wɔm⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "229",
+        "english": "comb",
+        "kimmun_v1": "ȶɑ²¹⁴",
+        "kimmun_v2": "ɡjan³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "220b",
+        "english": "saliva",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "230",
+        "english": "earring",
+        "kimmun_v1": "bin⁵²",
+        "kimmun_v2": "klaː",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "231",
+        "english": "needle",
+        "kimmun_v1": "θim⁵²",
+        "kimmun_v2": "pu³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "232",
+        "english": "ring",
+        "kimmun_v1": "pu.dɔ¹¹kwin⁵²",
+        "kimmun_v2": "θe³¹ȡɔŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "233",
+        "english": "shirt/tunic",
+        "kimmun_v1": "ɡuj²¹⁴",
+        "kimmun_v2": "kə.ȡap³¹di³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "234",
+        "english": "skirt",
+        "kimmun_v1": "ȶun¹¹",
+        "kimmun_v2": "pu³⁴¹pin³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "235",
+        "english": "thread",
+        "kimmun_v1": "θuj⁵²",
+        "kimmun_v2": "pu³⁴¹dɔ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "236",
+        "english": "trousers",
+        "kimmun_v1": "kwɑ⁵²",
+        "kimmun_v2": "pu³⁴¹dɔ⁵³waj¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "237",
+        "english": "awl",
+        "kimmun_v1": "θun²¹⁴",
+        "kimmun_v2": "kə.daːj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "238",
+        "english": "axe",
+        "kimmun_v1": "pɐw⁴⁴",
+        "kimmun_v2": "θaw³³klaːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "239",
+        "english": "bag",
+        "kimmun_v1": "ti³³",
+        "kimmun_v2": "θaw³³bɔŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "240",
+        "english": "basket i",
+        "kimmun_v1": "ɡjɑŋ¹¹mɑw³¹",
+        "kimmun_v2": "ni³⁵ȶoŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "241",
+        "english": "basket ri",
+        "kimmun_v1": "ɡjɐm³⁴¹",
+        "kimmun_v2": "θaw³³ȡiŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "242",
+        "english": "basket",
+        "kimmun_v1": "wi",
+        "kimmun_v2": "θaw³³min³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "243",
+        "english": "bowl",
+        "kimmun_v1": "wɐn⁴⁴",
+        "kimmun_v2": "θaw¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "244",
+        "english": "chopsticks",
+        "kimmun_v1": "ȶɐw³³",
+        "kimmun_v2": "θaw³³ȡɛŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "245",
+        "english": "fire",
+        "kimmun_v1": "tɐw³¹",
+        "kimmun_v2": "θuŋ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "246",
+        "english": "fire",
+        "kimmun_v1": "tongs",
+        "kimmun_v2": "la",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "247",
+        "english": "fishnet",
+        "kimmun_v1": "lɛ³³",
+        "kimmun_v2": "a³³ȡaːj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "248",
+        "english": "hammer",
+        "kimmun_v1": "pɐw⁴⁴",
+        "kimmun_v2": "məj³⁵pi³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "249",
+        "english": "harrow",
+        "kimmun_v1": "tuŋ¹¹pɑ¹¹",
+        "kimmun_v2": "dup²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "250",
+        "english": "hoe",
+        "kimmun_v1": "ȵɛw²¹⁴",
+        "kimmun_v2": "saːm¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "251",
+        "english": "knife",
+        "kimmun_v1": "ȡu³³",
+        "kimmun_v2": "haːn¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "252",
+        "english": "masher",
+        "kimmun_v1": "kum³³so⁵²",
+        "kimmun_v2": "saŋ³¹nuŋ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "253",
+        "english": "plane",
+        "kimmun_v1": "tuŋ¹¹pɑw³³",
+        "kimmun_v2": "daːj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "254",
+        "english": "plow",
+        "kimmun_v1": "tuŋ¹¹kjɑj¹¹",
+        "kimmun_v2": "wa³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "255",
+        "english": "carrying",
+        "kimmun_v1": "pole",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "256",
+        "english": "rope",
+        "kimmun_v1": "lɑŋ³⁵vin⁵²",
+        "kimmun_v2": "(2s)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "257",
+        "english": "sickle",
+        "kimmun_v1": "ȴu³¹to²¹⁴",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "258",
+        "english": "anvil",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "(1p)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "259",
+        "english": "chisel",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "(2p)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "260",
+        "english": "peg",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "261",
+        "english": "pot",
+        "kimmun_v1": "-------",
+        "kimmun_v2": "mun³¹tɔn⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "262",
+        "english": "ashes",
+        "kimmun_v1": "sɑj³³",
+        "kimmun_v2": "mun³¹ȡi³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "263",
+        "english": "bed",
+        "kimmun_v1": "ȶo⁵²",
+        "kimmun_v2": "faː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "264",
+        "english": "blanket",
+        "kimmun_v1": "θɔŋ⁵²",
+        "kimmun_v2": "ȡi³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "265",
+        "english": "boat",
+        "kimmun_v1": "dɑŋ³³",
+        "kimmun_v2": "səj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "257a",
+        "english": "he/she/it",
+        "kimmun_v1": "θi⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "266",
+        "english": "bridge",
+        "kimmun_v1": "ȶo¹¹",
+        "kimmun_v2": "laːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "257b",
+        "english": "he/she/it",
+        "kimmun_v1": "mun³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "267",
+        "english": "charcoal",
+        "kimmun_v1": "tɐw³¹tɑn⁵²",
+        "kimmun_v2": "aw³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "268",
+        "english": "coop",
+        "kimmun_v1": "ȶe²¹⁴ko⁵²",
+        "kimmun_v2": "mun³¹ȡi³⁴¹kwaː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "269",
+        "english": "dock,",
+        "kimmun_v1": "boat",
+        "kimmun_v2": "(elder",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "260a",
+        "english": "they",
+        "kimmun_v1": "θi³¹tin³¹doj³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "270",
+        "english": "door",
+        "kimmun_v1": "kjɛŋ¹¹",
+        "kimmun_v2": "(elder",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "260b",
+        "english": "they",
+        "kimmun_v1": "-------",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "271",
+        "english": "firewood",
+        "kimmun_v1": "θɑŋ¹¹",
+        "kimmun_v2": "(elder",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "272",
+        "english": "garden",
+        "kimmun_v1": "ȡin⁵²",
+        "kimmun_v2": "(elder",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "273",
+        "english": "grave",
+        "kimmun_v1": "θo⁴⁴",
+        "kimmun_v2": "of",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "274",
+        "english": "house",
+        "kimmun_v1": "pjɑw⁴⁴",
+        "kimmun_v2": "of",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "275",
+        "english": "mat",
+        "kimmun_v1": "si³³",
+        "kimmun_v2": "(younger",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "276",
+        "english": "paddy",
+        "kimmun_v1": "ɡiŋ³³lɔ⁵²",
+        "kimmun_v2": "(younger",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "277",
+        "english": "pillow",
+        "kimmun_v1": "toŋ¹¹ȡɑm³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "278",
+        "english": "plot dry",
+        "kimmun_v1": "ɡjɑŋ³⁵",
+        "kimmun_v2": "bu¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "279",
+        "english": "wet field",
+        "kimmun_v1": "ɡiŋ¹¹",
+        "kimmun_v2": "ɡjaŋ³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "280",
+        "english": "road",
+        "kimmun_v1": "kjɑw⁴⁴",
+        "kimmun_v2": "path",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "281",
+        "english": "stairs/ladder",
+        "kimmun_v1": "kjɑw⁴⁴kɑ³⁵",
+        "kimmun_v2": "daːŋ¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "282",
+        "english": "village",
+        "kimmun_v1": "ɡjɐŋ³⁴¹",
+        "kimmun_v2": "pjaw³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "283",
+        "english": "well",
+        "kimmun_v1": "(water)",
+        "kimmun_v2": "kjɛŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "284",
+        "english": "wide",
+        "kimmun_v1": "kwaŋ⁴⁴",
+        "kimmun_v2": "kjɛŋ³¹kjan⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "285",
+        "english": "white",
+        "kimmun_v1": "pɛ³³",
+        "kimmun_v2": "pjaw³³tuŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "286",
+        "english": "wet",
+        "kimmun_v1": "dɔn²¹⁴",
+        "kimmun_v2": "house",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "277a",
+        "english": "friend",
+        "kimmun_v1": "pɛw³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "287",
+        "english": "sweet",
+        "kimmun_v1": "ɡam²¹⁴",
+        "kimmun_v2": "tuŋ³¹ȡɔm¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "277b",
+        "english": "friend",
+        "kimmun_v1": "lo³³toj²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "288",
+        "english": "sticky",
+        "kimmun_v1": "bla²¹⁴",
+        "kimmun_v2": "θɔŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "289",
+        "english": "spicy",
+        "kimmun_v1": "bjat³³",
+        "kimmun_v2": "tuŋ³¹tim²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "290",
+        "english": "sour",
+        "kimmun_v1": "θuj⁵²",
+        "kimmun_v2": "ɡuj⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "291",
+        "english": "soft",
+        "kimmun_v1": "sɔt³³",
+        "kimmun_v2": "weave",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "292",
+        "english": "smelly",
+        "kimmun_v1": "θɐj³⁵",
+        "kimmun_v2": "dye (",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "293",
+        "english": "slick",
+        "kimmun_v1": "blaŋ³³",
+        "kimmun_v2": "kwaː³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "294",
+        "english": "short",
+        "kimmun_v1": "ham⁵²",
+        "kimmun_v2": "sew",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "295",
+        "english": "salty",
+        "kimmun_v1": "daj¹¹",
+        "kimmun_v2": "θim³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "296",
+        "english": "rotten",
+        "kimmun_v1": "jɔt¹¹",
+        "kimmun_v2": "ȶa⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "297",
+        "english": "ripe",
+        "kimmun_v1": "a³³su³⁵",
+        "kimmun_v2": "(finger)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "298",
+        "english": "right",
+        "kimmun_v1": "side",
+        "kimmun_v2": "cord",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "299",
+        "english": "red",
+        "kimmun_v1": "θi⁵²",
+        "kimmun_v2": "(cooking-)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "300",
+        "english": "raw",
+        "kimmun_v1": "a⁴⁴ŋim³⁴¹",
+        "kimmun_v2": "ȶə̆³¹kun⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "301",
+        "english": "old",
+        "kimmun_v1": "lo³⁵ȵaŋ³¹",
+        "kimmun_v2": "to³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "302",
+        "english": "new",
+        "kimmun_v1": "saŋ³³ȵaŋ³¹",
+        "kimmun_v2": "to³⁴¹saːj¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "303",
+        "english": "near",
+        "kimmun_v1": "θat³³",
+        "kimmun_v2": "to³⁴¹so³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "304",
+        "english": "narrow",
+        "kimmun_v1": "it³³",
+        "kimmun_v2": "ȶo⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "305",
+        "english": "low",
+        "kimmun_v1": "ha⁵²",
+        "kimmun_v2": "move",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "306",
+        "english": "light",
+        "kimmun_v1": "weight",
+        "kimmun_v2": "bin³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "307",
+        "english": "left",
+        "kimmun_v1": "θaj³³bu³⁴¹",
+        "kimmun_v2": "ȶə.ðaj³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "308",
+        "english": "late",
+        "kimmun_v1": "an³⁵",
+        "kimmun_v2": "ȡu²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "309",
+        "english": "inside",
+        "kimmun_v1": "ɡja³⁴¹",
+        "kimmun_v2": "ȡu²¹ðɛm³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "310",
+        "english": "hot",
+        "kimmun_v1": "kjɔm²¹⁴",
+        "kimmun_v2": "sharpen",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "311",
+        "english": "high",
+        "kimmun_v1": "ɡjaŋ⁵²",
+        "kimmun_v2": "pierce",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "312",
+        "english": "heavy",
+        "kimmun_v1": "ni³³",
+        "kimmun_v2": "ban³³ȡe⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "313",
+        "english": "hard",
+        "kimmun_v1": "ȵɛŋ³³",
+        "kimmun_v2": "hammer",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "314",
+        "english": "green",
+        "kimmun_v1": "mɛŋ²¹⁴",
+        "kimmun_v2": "po³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "315",
+        "english": "good",
+        "kimmun_v1": "ɡɔŋ³³ve³⁴¹",
+        "kimmun_v2": "roll",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "316",
+        "english": "full",
+        "kimmun_v1": "bɔŋ⁵²",
+        "kimmun_v2": "laːŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "317",
+        "english": "fragrant",
+        "kimmun_v1": "daŋ²¹⁴",
+        "kimmun_v2": "daːn⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "318",
+        "english": "fishy",
+        "kimmun_v1": "θe³³diŋ⁵²",
+        "kimmun_v2": "nɔ³³dɔŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "319",
+        "english": "far",
+        "kimmun_v1": "ɡɔ²¹⁴",
+        "kimmun_v2": "jaŋ⁵³hɔ³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "320",
+        "english": "early",
+        "kimmun_v1": "ɡjo⁴⁴",
+        "kimmun_v2": "hear",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "321",
+        "english": "dry",
+        "kimmun_v1": "ɡaj⁵²",
+        "kimmun_v2": "si³³daːŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "322",
+        "english": "dead",
+        "kimmun_v1": "daj³³",
+        "kimmun_v2": "see",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "323",
+        "english": "cool",
+        "kimmun_v1": "θiŋ³⁵",
+        "kimmun_v2": "wink",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "324",
+        "english": "cold",
+        "kimmun_v1": "sɔŋ⁴⁴",
+        "kimmun_v2": "weep",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "325",
+        "english": "blind",
+        "kimmun_v1": "mɐj³³bu³³",
+        "kimmun_v2": "eat",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "326",
+        "english": "black",
+        "kimmun_v1": "ɡjaː²¹⁴",
+        "kimmun_v2": "swallow",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "327",
+        "english": "bitter",
+        "kimmun_v1": "im²¹⁴",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "328",
+        "english": "below",
+        "kimmun_v1": "di⁴⁴",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "329",
+        "english": "bad",
+        "kimmun_v1": "ho³³",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "330",
+        "english": "alive",
+        "kimmun_v1": "saŋ³¹",
+        "kimmun_v2": "drink",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "331",
+        "english": "above",
+        "kimmun_v1": "ȶɐj³³",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "332",
+        "english": "yellow",
+        "kimmun_v1": "waŋ¹¹",
+        "kimmun_v2": "vomit",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "333",
+        "english": "to",
+        "kimmun_v1": "wash",
+        "kimmun_v2": "spit",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "334",
+        "english": "to",
+        "kimmun_v1": "write",
+        "kimmun_v2": "cough",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "335",
+        "english": "to",
+        "kimmun_v1": "walk",
+        "kimmun_v2": "sneeze",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "336",
+        "english": "to",
+        "kimmun_v1": "wait",
+        "kimmun_v2": "yawn",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "337",
+        "english": "to",
+        "kimmun_v1": "tell",
+        "kimmun_v2": "breathe",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "338",
+        "english": "to",
+        "kimmun_v1": "tear",
+        "kimmun_v2": "blow",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "339",
+        "english": "to",
+        "kimmun_v1": "talk",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "340",
+        "english": "to",
+        "kimmun_v1": "swim",
+        "kimmun_v2": "lick",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "341",
+        "english": "to",
+        "kimmun_v1": "stoke",
+        "kimmun_v2": "smile",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "342",
+        "english": "to",
+        "kimmun_v1": "stir",
+        "kimmun_v2": "laugh",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "343",
+        "english": "to",
+        "kimmun_v1": "steam",
+        "kimmun_v2": "speak",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "344",
+        "english": "to",
+        "kimmun_v1": "steal",
+        "kimmun_v2": "tell",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "345",
+        "english": "to",
+        "kimmun_v1": "stand",
+        "kimmun_v2": "shout",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "346",
+        "english": "to",
+        "kimmun_v1": "soak",
+        "kimmun_v2": "answer",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "347",
+        "english": "to",
+        "kimmun_v1": "smoke",
+        "kimmun_v2": "lie,",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "348",
+        "english": "to",
+        "kimmun_v1": "smell",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "349",
+        "english": "to",
+        "kimmun_v1": "sleep",
+        "kimmun_v2": "think",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "350",
+        "english": "to",
+        "kimmun_v1": "slash",
+        "kimmun_v2": "know",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "339a",
+        "english": "to",
+        "kimmun_v1": "suck",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "351",
+        "english": "to",
+        "kimmun_v1": "sit",
+        "kimmun_v2": "forget",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "339b",
+        "english": "to",
+        "kimmun_v1": "suck",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "352",
+        "english": "to",
+        "kimmun_v1": "set",
+        "kimmun_v2": "love",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "353",
+        "english": "to",
+        "kimmun_v1": "sell",
+        "kimmun_v2": "hate",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "354",
+        "english": "to",
+        "kimmun_v1": "see",
+        "kimmun_v2": "wait",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "355",
+        "english": "to",
+        "kimmun_v1": "scrape",
+        "kimmun_v2": "count",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "356",
+        "english": "to",
+        "kimmun_v1": "scold",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "357",
+        "english": "to",
+        "kimmun_v1": "run",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "358",
+        "english": "to",
+        "kimmun_v1": "roast",
+        "kimmun_v2": "sleep",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "359",
+        "english": "to",
+        "kimmun_v1": "roar",
+        "kimmun_v2": "snore",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "360",
+        "english": "to",
+        "kimmun_v1": "ride",
+        "kimmun_v2": "dream",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "348a",
+        "english": "to",
+        "kimmun_v1": "sing",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "361",
+        "english": "to",
+        "kimmun_v1": "return",
+        "kimmun_v2": "maː¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "348b",
+        "english": "to",
+        "kimmun_v1": "sing",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "362",
+        "english": "to",
+        "kimmun_v1": "rest",
+        "kimmun_v2": "itch",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "363",
+        "english": "to",
+        "kimmun_v1": "remember",
+        "kimmun_v2": "scratch",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "364",
+        "english": "to",
+        "kimmun_v1": "pull gr",
+        "kimmun_v2": "shiver",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "365",
+        "english": "to",
+        "kimmun_v1": "pull",
+        "kimmun_v2": "die",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "366",
+        "english": "to",
+        "kimmun_v1": "pat",
+        "kimmun_v2": "maːn¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "367",
+        "english": "to",
+        "kimmun_v1": "open",
+        "kimmun_v2": "sit",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "368",
+        "english": "to",
+        "kimmun_v1": "mow",
+        "kimmun_v2": "stand",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "369",
+        "english": "to",
+        "kimmun_v1": "marry",
+        "kimmun_v2": "kneel",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "370",
+        "english": "to",
+        "kimmun_v1": "marry",
+        "kimmun_v2": "walk",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "371",
+        "english": "to",
+        "kimmun_v1": "like",
+        "kimmun_v2": "crawl",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "372",
+        "english": "to",
+        "kimmun_v1": "know",
+        "kimmun_v2": "come",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "373",
+        "english": "to",
+        "kimmun_v1": "kill",
+        "kimmun_v2": "enter",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "374",
+        "english": "to",
+        "kimmun_v1": "hone",
+        "kimmun_v2": "return",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "375",
+        "english": "to",
+        "kimmun_v1": "hide",
+        "kimmun_v2": "push",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "376",
+        "english": "to",
+        "kimmun_v1": "hear",
+        "kimmun_v2": "pull",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "377",
+        "english": "to",
+        "kimmun_v1": "go",
+        "kimmun_v2": "kick",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "378",
+        "english": "to",
+        "kimmun_v1": "give",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "379",
+        "english": "to",
+        "kimmun_v1": "give",
+        "kimmun_v2": "fall",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "380",
+        "english": "to",
+        "kimmun_v1": "fry",
+        "kimmun_v2": "swim",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "381",
+        "english": "to",
+        "kimmun_v1": "forget",
+        "kimmun_v2": "give",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "382",
+        "english": "to",
+        "kimmun_v1": "fly",
+        "kimmun_v2": "tie",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "383",
+        "english": "to",
+        "kimmun_v1": "fear",
+        "kimmun_v2": "wipe",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "384",
+        "english": "to",
+        "kimmun_v1": "fall",
+        "kimmun_v2": "hit",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "385",
+        "english": "to",
+        "kimmun_v1": "explode",
+        "kimmun_v2": "split",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "386",
+        "english": "to",
+        "kimmun_v1": "eat",
+        "kimmun_v2": "cut",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "387",
+        "english": "to",
+        "kimmun_v1": "sun",
+        "kimmun_v2": "stab",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "388",
+        "english": "to",
+        "kimmun_v1": "drink",
+        "kimmun_v2": "grind",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "389",
+        "english": "to",
+        "kimmun_v1": "draw",
+        "kimmun_v2": "plant",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "390",
+        "english": "to",
+        "kimmun_v1": "drain",
+        "kimmun_v2": "dig",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "391",
+        "english": "to",
+        "kimmun_v1": "dip",
+        "kimmun_v2": "bury",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "378a",
+        "english": "to",
+        "kimmun_v1": "throw",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "392",
+        "english": "to",
+        "kimmun_v1": "die",
+        "kimmun_v2": "dry",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "378b",
+        "english": "to",
+        "kimmun_v1": "throw",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "393",
+        "english": "to",
+        "kimmun_v1": "cut",
+        "kimmun_v2": "pound",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "394",
+        "english": "to",
+        "kimmun_v1": "cut",
+        "kimmun_v2": "boil",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "395",
+        "english": "to",
+        "kimmun_v1": "crow",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "396",
+        "english": "to",
+        "kimmun_v1": "cook",
+        "kimmun_v2": "work",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "397",
+        "english": "to",
+        "kimmun_v1": "come",
+        "kimmun_v2": "play",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "398",
+        "english": "to",
+        "kimmun_v1": "chew",
+        "kimmun_v2": "dance",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "399",
+        "english": "to",
+        "kimmun_v1": "chase",
+        "kimmun_v2": "shoot",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "400",
+        "english": "to",
+        "kimmun_v1": "carry",
+        "kimmun_v2": "hunt",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "401",
+        "english": "to",
+        "kimmun_v1": "buy",
+        "kimmun_v2": "fight",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "402",
+        "english": "to",
+        "kimmun_v1": "blow",
+        "kimmun_v2": "buy",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "403",
+        "english": "to",
+        "kimmun_v1": "bite",
+        "kimmun_v2": "sell",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "404",
+        "english": "to",
+        "kimmun_v1": "be",
+        "kimmun_v2": "exchange",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "405",
+        "english": "to",
+        "kimmun_v1": "bathe",
+        "kimmun_v2": "steal",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "406",
+        "english": "to",
+        "kimmun_v1": "dark",
+        "kimmun_v2": "disappear",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "407",
+        "english": "to",
+        "kimmun_v1": "arrive",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "408",
+        "english": "to",
+        "kimmun_v1": "arise",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "409",
+        "english": "to",
+        "kimmun_v1": "answer",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "395a",
+        "english": "to",
+        "kimmun_v1": "burn",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "395b",
+        "english": "to",
+        "kimmun_v1": "burn",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "410",
+        "english": "to",
+        "kimmun_v1": "accept",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "411",
+        "english": "you",
+        "kimmun_v1": "(sg)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "412",
+        "english": "we",
+        "kimmun_v1": "pan¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "413",
+        "english": "they",
+        "kimmun_v1": "si²¹⁴",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "414",
+        "english": "many",
+        "kimmun_v1": "duŋ³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "416",
+        "english": "he",
+        "kimmun_v1": "nɐn¹¹",
+        "kimmun_v2": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "418",
+        "english": "you",
+        "kimmun_v1": "(pl)",
+        "kimmun_v2": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "428",
+        "english": "10",
+        "kimmun_v1": "sap¹¹",
+        "kimmun_v2": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "429",
+        "english": "11",
+        "kimmun_v1": "sap¹¹bjɛt³³",
+        "kimmun_v2": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "430",
+        "english": "12",
+        "kimmun_v1": "sap¹¹ȵe¹¹",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "431",
+        "english": "13",
+        "kimmun_v1": "sap¹¹sam²¹⁴",
+        "kimmun_v2": "θɔŋ³³ȡu³⁴¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "432",
+        "english": "14",
+        "kimmun_v1": "sap¹¹θe³⁵",
+        "kimmun_v2": "ki⁵³klaːn³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "417",
+        "english": "20",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "433",
+        "english": "15",
+        "kimmun_v1": "sap¹¹ŋo³⁴¹",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "434",
+        "english": "16",
+        "kimmun_v1": "sap¹¹ɡu³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "419",
+        "english": "40",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "435",
+        "english": "17",
+        "kimmun_v1": "sap¹¹kjɛt⁵²",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "420",
+        "english": "50",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "436",
+        "english": "18",
+        "kimmun_v1": "sap¹¹pit³¹",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "421",
+        "english": "60",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "437",
+        "english": "19",
+        "kimmun_v1": "sap¹¹ȶu⁴⁴",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "422",
+        "english": "70",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "438",
+        "english": "20",
+        "kimmun_v1": "ni³³sap¹¹",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "423",
+        "english": "80",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "439",
+        "english": "21",
+        "kimmun_v1": "ni³³sap¹¹ȵe¹¹",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "424",
+        "english": "90",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "440",
+        "english": "100",
+        "kimmun_v1": "ap¹¹pɛ²¹⁴",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "425",
+        "english": "100",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "441",
+        "english": "1000",
+        "kimmun_v1": "a¹¹tin⁵²",
+        "kimmun_v2": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "426",
+        "english": "1,000",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "427",
+        "english": "10,000",
+        "kimmun_v1": "(persons)",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "442",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "443",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "444",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "445",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "446",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "447",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "448",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "449",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "450",
+        "english": "right",
+        "kimmun_v1": "side",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "451",
+        "english": "left",
+        "kimmun_v1": "side",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "452a",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "452b",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "453",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "454",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "455",
+        "english": "this",
+        "kimmun_v1": "ne³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "456",
+        "english": "that",
+        "kimmun_v1": "waː³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "457",
+        "english": "black",
+        "kimmun_v1": "kja⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "458",
+        "english": "white",
+        "kimmun_v1": "pɛ²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "459",
+        "english": "red",
+        "kimmun_v1": "θi³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "460",
+        "english": "green",
+        "kimmun_v1": "mɛŋ⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "461",
+        "english": "yellow",
+        "kimmun_v1": "waːŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "462",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "463",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "464",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "465",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "466",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "467",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "468",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "469",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "470",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "471",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "472",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "473",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "474",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "475",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "476",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "477",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "478",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "479",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "480",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "481",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "482",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "483",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "484b",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "484a",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "485",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "486",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "487",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "488",
+        "english": "bald",
+        "kimmun_v1": "pje³³ȡaːn³³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "489",
+        "english": "naked",
+        "kimmun_v1": "ȶe³³blan⁵³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "490",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "491",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "492",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "493",
+        "english": "to",
+        "kimmun_v1": "be",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "494",
+        "english": "warm",
+        "kimmun_v1": "kjom⁵³bɔŋ³¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "495",
+        "english": "cool",
+        "kimmun_v1": "θiŋ¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "496",
+        "english": "difficult",
+        "kimmun_v1": "ȶo²¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "497",
+        "english": "easy",
+        "kimmun_v1": "həj¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "498",
+        "english": "loose",
+        "kimmun_v1": "lɔm¹¹",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "499",
+        "english": "when",
+        "kimmun_v1": "toj³¹nɔj³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "500",
+        "english": "where",
+        "kimmun_v1": "jam⁵³ti¹³",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "501",
+        "english": "who",
+        "kimmun_v1": "man³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "502",
+        "english": "what",
+        "kimmun_v1": "ȵin³⁴¹to³⁵",
+        "source": "Clark 2008"
+    },
+    {
+        "id": "503",
+        "english": "how",
+        "kimmun_v1": "many",
+        "source": "Clark 2008"
+    }
+]

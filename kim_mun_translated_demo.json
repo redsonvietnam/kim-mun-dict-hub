@@ -1,0 +1,1280 @@
+[
+    {
+        "entry_id": "SA-0210",
+        "chinese": "",
+        "kimmun": "vs [mə.̆nnnnɒɒɒɒ̞̞ːː̞̞ːːjjjj³³³³⁵⁵⁵⁵⁴⁴⁴⁴] [mə.̆nnnnɒɒɒɒ̞̞jj̞̞jj³³³³⁵⁵⁵⁵sa̠ːw¹³]",
+        "vietnamese": "Mặt trời",
+        "original": "‘sun’ (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0009",
+        "chinese": "",
+        "kimmun": "giâ già",
+        "vietnamese": "Tôi",
+        "original": "Moi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0010",
+        "chinese": "",
+        "kimmun": "mêy muóy",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "Toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0011",
+        "chinese": "",
+        "kimmun": "nan nin",
+        "vietnamese": "Hắn / Anh ta / Nó",
+        "original": "Lui (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0012",
+        "chinese": "",
+        "kimmun": "nài mai",
+        "vietnamese": "Có",
+        "original": "Avoir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0013",
+        "chinese": "",
+        "kimmun": "tu tu",
+        "vietnamese": "Có thể",
+        "original": "Pouvoir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0014",
+        "chinese": "",
+        "kimmun": "song chirông",
+        "vietnamese": "Lạnh",
+        "original": "Froid (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0015",
+        "chinese": "",
+        "kimmun": "kióm chiom",
+        "vietnamese": "Nóng",
+        "original": "Chaud (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0016",
+        "chinese": "",
+        "kimmun": "nom piêy mo gong",
+        "vietnamese": "Đầu",
+        "original": "Tête (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0017",
+        "chinese": "",
+        "kimmun": "p'iên guy têy lui",
+        "vietnamese": "Áo / Quần áo",
+        "original": "Habit (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0018",
+        "chinese": "",
+        "kimmun": "p'iên khoà tly háu",
+        "vietnamese": "Quần",
+        "original": "Pantalon (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0019",
+        "chinese": "",
+        "kimmun": "ghiáng lèâng",
+        "vietnamese": "Ruộng / Nương",
+        "original": "Champ (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0020",
+        "chinese": "",
+        "kimmun": "gong long",
+        "vietnamese": "Tốt / Ngon",
+        "original": "Bon (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0021",
+        "chinese": "",
+        "kimmun": "bo chong diil xong",
+        "vietnamese": "Mũi",
+        "original": "Nez (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0022",
+        "chinese": "",
+        "kimmun": "nom iney mut txing",
+        "vietnamese": "Mắt",
+        "original": "Œil (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0023",
+        "chinese": "",
+        "kimmun": "mún mûri",
+        "vietnamese": "Đau khổ / Chịu đựng",
+        "original": "Souffrir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0024",
+        "chinese": "",
+        "kimmun": "phoat poat",
+        "vietnamese": "Nhìn / Thấy",
+        "original": "Voir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0039",
+        "chinese": "",
+        "kimmun": "pêv hiéu; hëy",
+        "vietnamese": "Có",
+        "original": "Savoir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0042",
+        "chinese": "",
+        "kimmun": "cóm !già càm hîa",
+        "vietnamese": "Mưa",
+        "original": "Craindre (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0217",
+        "chinese": "",
+        "kimmun": "péng tán péng phán",
+        "vietnamese": "Hắn / Anh ta / Nó",
+        "original": "Parapluie (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0254",
+        "chinese": "",
+        "kimmun": "sommeil",
+        "vietnamese": "Có",
+        "original": "Avoir (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0268",
+        "chinese": "",
+        "kimmun": "xlîng táu hèy",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "Etoile (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0390",
+        "chinese": "",
+        "kimmun": "(pr. au ton inférieur)",
+        "vietnamese": "Tốt / Ngon",
+        "original": "bong.gày. (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0596",
+        "chinese": "",
+        "kimmun": "piêy mun ma.",
+        "vietnamese": "Mưa",
+        "original": "Antimigraine, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0620",
+        "chinese": "",
+        "kimmun": "mín.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0659",
+        "chinese": "",
+        "kimmun": "; tgiáo toi.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0673",
+        "chinese": "",
+        "kimmun": "cá dáng. i",
+        "vietnamese": "Hắn / Anh ta / Nó",
+        "original": "lui (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0706",
+        "chinese": "",
+        "kimmun": "ning bâp.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0817",
+        "chinese": "",
+        "kimmun": "tóng péng.",
+        "vietnamese": "Tốt / Ngon",
+        "original": "Bonbon, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0891",
+        "chinese": "",
+        "kimmun": "Bulletin, xlan man.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi. (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-0972",
+        "chinese": "",
+        "kimmun": "pu sang thàn.",
+        "vietnamese": "Tốt / Ngon",
+        "original": "Carboniser, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1057",
+        "chinese": "",
+        "kimmun": "pu ihàn.",
+        "vietnamese": "Tốt / Ngon",
+        "original": "Charbonner, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1058",
+        "chinese": "",
+        "kimmun": "mun áy thàn. —,",
+        "vietnamese": "Tốt / Ngon",
+        "original": "Charbonnier, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1098",
+        "chinese": "",
+        "kimmun": "wâm kióm.",
+        "vietnamese": "Nóng",
+        "original": "chaude, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1147",
+        "chinese": "",
+        "kimmun": "p'iên toi.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1178",
+        "chinese": "",
+        "kimmun": "cóng.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1299",
+        "chinese": "",
+        "kimmun": "la nourriture non comprise,",
+        "vietnamese": "Tôi",
+        "original": "mois, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1305",
+        "chinese": "",
+        "kimmun": "dau thai.",
+        "vietnamese": "Nhìn / Thấy",
+        "original": "Concevoir, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1431",
+        "chinese": "",
+        "kimmun": "Etre déçu, chu chang.",
+        "vietnamese": "Nhìn / Thấy",
+        "original": "Décevoir. (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1443",
+        "chinese": "",
+        "kimmun": "Individu déconsidéré, mun",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi. (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1523",
+        "chinese": "",
+        "kimmun": "má quên giù.",
+        "vietnamese": "Áo / Quần áo",
+        "original": "Déshabitué, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1575",
+        "chinese": "",
+        "kimmun": "má nai tau ghêy.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "Discourtois, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1888",
+        "chinese": "",
+        "kimmun": "; mun cú quái.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-1983",
+        "chinese": "",
+        "kimmun": "bô piêy bêng, giu.",
+        "vietnamese": "Đầu",
+        "original": "tête, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2158",
+        "chinese": "",
+        "kimmun": "tau.",
+        "vietnamese": "Tôi",
+        "original": "moi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2166",
+        "chinese": "",
+        "kimmun": "Thièn Chu^cri.",
+        "vietnamese": "Tốt / Ngon",
+        "original": "bong (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2352",
+        "chinese": "",
+        "kimmun": "cóng phůn toi nháy.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2362",
+        "chinese": "",
+        "kimmun": "ló ; thày sàu.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2587",
+        "chinese": "",
+        "kimmun": "piêy mun. \\",
+        "vietnamese": "Mưa",
+        "original": "Migraine, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2759",
+        "chinese": "",
+        "kimmun": "sing thong kiên.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "Oratoire, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-2874",
+        "chinese": "",
+        "kimmun": "phon têy va.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "Patois, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3084",
+        "chinese": "",
+        "kimmun": "séng ghèâng. Etre",
+        "vietnamese": "Nhìn / Thấy",
+        "original": "Promouvoir, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3162",
+        "chinese": "",
+        "kimmun": "tau lo.",
+        "vietnamese": "Nóng",
+        "original": "Réchaud, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3199",
+        "chinese": "",
+        "kimmun": "(Se), xlêy quên su.",
+        "vietnamese": "Áo / Quần áo",
+        "original": "Réhabituer (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3279",
+        "chinese": "",
+        "kimmun": "— , song gióng.",
+        "vietnamese": "Lạnh",
+        "original": "Froid (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3282",
+        "chinese": "",
+        "kimmun": "giám xlat váng sien.",
+        "vietnamese": "Mưa",
+        "original": "Riverain, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3306",
+        "chinese": "",
+        "kimmun": "meng xlîng nhây.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3445",
+        "chinese": "",
+        "kimmun": "empereur, roi, huông ti.",
+        "vietnamese": "Mưa",
+        "original": "Souverain, (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3507",
+        "chinese": "",
+        "kimmun": "mun ning.",
+        "vietnamese": "Hắn / Anh ta / Nó",
+        "original": "lui (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3573",
+        "chinese": "",
+        "kimmun": "meng xlîng.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "SA-3704",
+        "chinese": "",
+        "kimmun": "náu-",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toi (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "011001",
+        "chinese": "",
+        "kimmun": "gui]22",
+        "vietnamese": "Bầu trời",
+        "original": "sky (Funing)",
+        "phonetic": "tiankong",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011002",
+        "chinese": "",
+        "kimmun": "gun22 gwan 13 jo53",
+        "vietnamese": "Rạng đông / Bình minh",
+        "original": "liang le thedaybreaks (Funing)",
+        "phonetic": "tian",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011003",
+        "chinese": "",
+        "kimmun": "gun22 dzam31 jo53",
+        "vietnamese": "Trời tối / Hoàng hôn",
+        "original": "hei le nightfalls (Funing)",
+        "phonetic": "tian",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011004",
+        "chinese": "",
+        "kimmun": "gun22 sin22",
+        "vietnamese": "Chân trời",
+        "original": "horizon (Funing)",
+        "phonetic": "tianbian",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011005",
+        "chinese": "",
+        "kimmun": "ma22 nooi53",
+        "vietnamese": "Mặt trời",
+        "original": "sun (Funing)",
+        "phonetic": "taiyang",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011006",
+        "chinese": "",
+        "kimmun": "sat53 ma22 nooi53",
+        "vietnamese": "Mặt trời",
+        "original": "chu taiyang thesun rises (Funing)",
+        "phonetic": "tti^l$J§",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011007",
+        "chinese": "Bi&",
+        "kimmun": "ma22 nooi53 blat44",
+        "vietnamese": "Mặt trời",
+        "original": "luo thesunsets (Funing)",
+        "phonetic": "r\\",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011008",
+        "chinese": "",
+        "kimmun": "faai53",
+        "vietnamese": "Mặt trời",
+        "original": "shai tosun (Funing)",
+        "phonetic": "$1",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011009",
+        "chinese": "",
+        "kimmun": "siu44",
+        "vietnamese": "Chiếu sáng",
+        "original": "toshine (Funing)",
+        "phonetic": "zhao",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011010",
+        "chinese": "",
+        "kimmun": "kjap44 na22 ma22 nooi53",
+        "vietnamese": "Nhật thực",
+        "original": "rishf solareclipse (Funing)",
+        "phonetic": "El£4",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011011",
+        "chinese": "",
+        "kimmun": "la354",
+        "vietnamese": "Mặt trăng",
+        "original": "moon (Funing)",
+        "phonetic": "yueliang",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011012",
+        "chinese": "",
+        "kimmun": "la354 tsal3",
+        "vietnamese": "Trăng khuyết",
+        "original": "crescentmoon (Funing)",
+        "phonetic": "yueya",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011013",
+        "chinese": "",
+        "kimmun": "la354 klon22",
+        "vietnamese": "Trăng tròn",
+        "original": "fullmoon (Funing)",
+        "phonetic": "yueyuan",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011014",
+        "chinese": "",
+        "kimmun": "kjap44 na22 la354",
+        "vietnamese": "Nguyệt thực",
+        "original": "yueshf lunareclipse (Funing)",
+        "phonetic": "^fi",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011015",
+        "chinese": "",
+        "kimmun": "la354 gwan 13",
+        "vietnamese": "Ánh trăng",
+        "original": "moonlight (Funing)",
+        "phonetic": "yueguang",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011017",
+        "chinese": "",
+        "kimmun": "ba22 dzao53 Giin 13",
+        "vietnamese": "Sao chổi",
+        "original": "saozhouxing comet (Funing)",
+        "phonetic": "J§#fM",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011018",
+        "chinese": "",
+        "kimmun": "0iinl3 taol3 dai354",
+        "vietnamese": "Sao băng",
+        "original": "meteor (Funing)",
+        "phonetic": "liuxing",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011036",
+        "chinese": "",
+        "kimmun": "bun31",
+        "vietnamese": "Mưa",
+        "original": "rain (Funing)",
+        "phonetic": "|yu",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011038",
+        "chinese": "",
+        "kimmun": "bun31 gjam22",
+        "vietnamese": "Mưa",
+        "original": "lm yu togetdrenchedbythe rain (Funing)",
+        "phonetic": "ittpfl",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011039",
+        "chinese": "",
+        "kimmun": "bun31 ten53",
+        "vietnamese": "Mưa",
+        "original": "yu ting therainceases (Funing)",
+        "phonetic": "fif^",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011040",
+        "chinese": "",
+        "kimmun": "tom31 bun31",
+        "vietnamese": "Mưa",
+        "original": "dayu heavyrain (Funing)",
+        "phonetic": "AM",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011043",
+        "chinese": "(SimPfl)",
+        "kimmun": "/nooH 9doos bunV",
+        "vietnamese": "Mặt trời",
+        "original": "suddenshowerwith thesun shining (Funing)",
+        "phonetic": "(baizhuangyu)",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011044",
+        "chinese": "",
+        "kimmun": "bun31 nekl3",
+        "vietnamese": "Mưa",
+        "original": "yudian raindrop (Funing)",
+        "phonetic": "jUA",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011046",
+        "chinese": "",
+        "kimmun": "kaan44",
+        "vietnamese": "Mưa",
+        "original": "hong rainbow (Funing)",
+        "phonetic": "il",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011049",
+        "chinese": "",
+        "kimmun": "gun22 sin22 9een35",
+        "vietnamese": "Mặt trời",
+        "original": "wanxia rosyclouds, rosysunset (Funing)",
+        "phonetic": "B&H",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011070",
+        "chinese": "",
+        "kimmun": "bug31 lo53 nooi53",
+        "vietnamese": "Mưa",
+        "original": "xiayutian rainyday (Funing)",
+        "phonetic": "TM^",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "011074",
+        "chinese": "",
+        "kimmun": "/sagH booQsl tiioJ/",
+        "vietnamese": "Ngôi sao",
+        "original": "zhinuxing star Fiega in constellation ofLyra (Funing)",
+        "phonetic": "^^CM",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "025009",
+        "chinese": "",
+        "kimmun": "bjao53 dzim35",
+        "vietnamese": "Tốt / Ngon",
+        "original": "yuci smallfish bones (Funing)",
+        "phonetic": "MM",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "031005",
+        "chinese": "",
+        "kimmun": "lao53 bjai31",
+        "vietnamese": "Mặt trời",
+        "original": "zhiisun bamboo-shoot (Funing)",
+        "phonetic": "1tP",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "033001",
+        "chinese": "",
+        "kimmun": "gu31",
+        "vietnamese": "Mưa",
+        "original": "wugu grains (Funing)",
+        "phonetic": "£1$",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "033002",
+        "chinese": "",
+        "kimmun": "jaai] 13",
+        "vietnamese": "Mưa",
+        "original": "yang riceshoots, sproutinggrain (Funing)",
+        "phonetic": "f&",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "033004",
+        "chinese": "",
+        "kimmun": "giirj22 blao22",
+        "vietnamese": "Mưa",
+        "original": "daogu grain (Funing)",
+        "phonetic": "fg|£",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "033007",
+        "chinese": "",
+        "kimmun": "blao22 nun35",
+        "vietnamese": "Mưa",
+        "original": "sui earofgrain, earsofwheat (Funing)",
+        "phonetic": "SI",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "034028",
+        "chinese": "JH kugua bittermelon (Momordica charantiaL.)",
+        "kimmun": "hao44 loi44",
+        "vietnamese": "Hắn / Anh ta / Nó",
+        "original": "luisl (Funing)",
+        "phonetic": "/kwaa^l",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "036019",
+        "chinese": "",
+        "kimmun": "ffliffi.",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toirrigate (Funing)",
+        "phonetic": "guan'gai",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "043022",
+        "chinese": "",
+        "kimmun": "la354 pen 13",
+        "vietnamese": "Mặt trăng",
+        "original": "yuebing moon-cake (Funing)",
+        "phonetic": "f\\t#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "044031",
+        "chinese": "",
+        "kimmun": "pa44 kaak31",
+        "vietnamese": "Ngôi sao",
+        "original": "staranise (Funing)",
+        "phonetic": "bajiao",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "045006",
+        "chinese": "",
+        "kimmun": "tiu35 0u22 0aaml3",
+        "vietnamese": "Mưa",
+        "original": "zao grainsfrom a distillery (Funing)",
+        "phonetic": "ffi",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "046066",
+        "chinese": "",
+        "kimmun": "0a44 H22",
+        "vietnamese": "Mưa",
+        "original": "loushao strainer, colander (Funing)",
+        "phonetic": "M^l",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "052081",
+        "chinese": "",
+        "kimmun": "gjap22",
+        "vietnamese": "Mưa",
+        "original": "li rainhatofbamboosplints (Funing)",
+        "phonetic": "S",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "061006",
+        "chinese": "",
+        "kimmun": "dai22 geeu22",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "cesuo toilet (Funing)",
+        "phonetic": "TO",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "073087",
+        "chinese": "",
+        "kimmun": "num354 mei53 nan35 saan53",
+        "vietnamese": "Mưa",
+        "original": "bo guzi de zhuji shallowbasketusedforwinnowinggrain (Funing)",
+        "phonetic": "Hi^T-fftfriB;",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "091009",
+        "chinese": "",
+        "kimmun": "fan22 8i53",
+        "vietnamese": "Tốt / Ngon",
+        "original": "huahong dividend, bonus (Funing)",
+        "phonetic": "WS.",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "091022",
+        "chinese": "",
+        "kimmun": "kooi53 tsou53",
+        "vietnamese": "Ngôi sao",
+        "original": "kaishi tostartbusinessoftheday (Funing)",
+        "phonetic": "§^rn\"",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "101007",
+        "chinese": "",
+        "kimmun": "dzun22 wa31",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "hua tointerpret (Funing)",
+        "phonetic": "chuan",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "102002",
+        "chinese": "",
+        "kimmun": "too53 0in53",
+        "vietnamese": "Ngôi sao",
+        "original": "dbngshen tostarton ajourney (Funing)",
+        "phonetic": "fjj#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "103022",
+        "chinese": "",
+        "kimmun": "tou31 daan53",
+        "vietnamese": "Mưa",
+        "original": "train (Funing)",
+        "phonetic": "huoche",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "122015",
+        "chinese": "\"b^7 ^Pi qixi, qiqiao 7th eveningofthe",
+        "kimmun": ",",
+        "vietnamese": "Mặt trăng",
+        "original": "moon (Funing)",
+        "phonetic": "7th",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "122018",
+        "chinese": "",
+        "kimmun": "maai]53 la354",
+        "vietnamese": "Mặt trăng",
+        "original": "yue toenjoythemoonlight (Funing)",
+        "phonetic": "shang",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "124022",
+        "chinese": "",
+        "kimmun": "tin53 tse53",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "qing ke toinviteguests, togiveaparty (Funing)",
+        "phonetic": "ft3?",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "124031",
+        "chinese": "",
+        "kimmun": "pai22 gjail3",
+        "vietnamese": "Ngôi sao",
+        "original": "shang cai tostartserving a banquet (Funing)",
+        "phonetic": "±l£",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "131006",
+        "chinese": "",
+        "kimmun": "0un35",
+        "vietnamese": "Tốt / Ngon",
+        "original": "gu bone (Funing)",
+        "phonetic": "#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "131038",
+        "chinese": "",
+        "kimmun": "pjei35 lei53",
+        "vietnamese": "Mưa",
+        "original": "brain (Funing)",
+        "phonetic": "naojiang",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "131095",
+        "chinese": "",
+        "kimmun": "dzat44 9a22 0un35",
+        "vietnamese": "Tốt / Ngon",
+        "original": "cheekbone (Funing)",
+        "phonetic": "quangu",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "131157",
+        "chinese": "",
+        "kimmun": "ka22 tan53 kaanl3",
+        "vietnamese": "Tốt / Ngon",
+        "original": "backbone (Funing)",
+        "phonetic": "beigu",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "131188",
+        "chinese": "",
+        "kimmun": "9ao44 bai]44 hiiq53",
+        "vietnamese": "Tốt / Ngon",
+        "original": "jinggu shinbone (Funing)",
+        "phonetic": "K#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "132034",
+        "chinese": "Df ken",
+        "kimmun": "gjan22 6un35",
+        "vietnamese": "Tốt / Ngon",
+        "original": "tognawata bone (Funing)",
+        "phonetic": "(gutou)",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "132040",
+        "chinese": "",
+        "kimmun": "sat22 bjao53 Gun35",
+        "vietnamese": "Tốt / Ngon",
+        "original": "shun yugutou tosuckatfish bones (Funing)",
+        "phonetic": "%&#Sl",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "133917",
+        "chinese": "",
+        "kimmun": "ma22 gaao22 tsei35",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toiletpaper (Funing)",
+        "phonetic": "caozhi",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "142005",
+        "chinese": "",
+        "kimmun": "tit22 kwai44",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toinfect (Funing)",
+        "phonetic": "chuanran",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "142032",
+        "chinese": "",
+        "kimmun": "gi31 tsu31 klaai35",
+        "vietnamese": "Mưa",
+        "original": "yao shan tostrain one'sback (Funing)",
+        "phonetic": "§£[^3",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "144041",
+        "chinese": "",
+        "kimmun": "pei31 saai]53",
+        "vietnamese": "Mặt trời",
+        "original": "sunshang tohurttheskin (Funing)",
+        "phonetic": "JlfM",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "152092",
+        "chinese": "",
+        "kimmun": "0unl3 sa53",
+        "vietnamese": "Mặt trời",
+        "original": "sunnu son'sdaughter (Funing)",
+        "phonetic": "W.tC",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "152093",
+        "chinese": "",
+        "kimmun": "kun22 nwai31 9unl3",
+        "vietnamese": "Mặt trời",
+        "original": "waisun daughter'sson (Funing)",
+        "phonetic": "^i-M",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "152094",
+        "chinese": "",
+        "kimmun": "0unl3 laan35",
+        "vietnamese": "Mặt trời",
+        "original": "zengsun great-grandson (Funing)",
+        "phonetic": "bJS",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "170007",
+        "chinese": "",
+        "kimmun": "len53",
+        "vietnamese": "Mưa",
+        "original": "totrain (Funing)",
+        "phonetic": "xunlian",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "181047",
+        "chinese": "$ (A^) wu (ren",
+        "kimmun": "sim53 mun22 sei35",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "toimpede (Funing)",
+        "phonetic": "zidi)",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "181054",
+        "chinese": "",
+        "kimmun": "kweei]44 ma22 9ai44",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "jiezhu tointercept, tostop (Funing)",
+        "phonetic": "WL&.",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "181072",
+        "chinese": "",
+        "kimmun": "maai]53 ho31",
+        "vietnamese": "Bạn / Anh / Chị",
+        "original": "xue, mofang tolearn, toimitate (Funing)",
+        "phonetic": "WlWL",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "192012",
+        "chinese": "",
+        "kimmun": "mug354 log53",
+        "vietnamese": "Mặt trời",
+        "original": "wuhui tomisunderstand (Funing)",
+        "phonetic": "1i#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "204033",
+        "chinese": "",
+        "kimmun": "fit",
+        "vietnamese": "Chân trời",
+        "original": "horizontal (Funing)",
+        "phonetic": "heng",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "210009",
+        "chinese": "",
+        "kimmun": "nam53",
+        "vietnamese": "Tôi",
+        "original": "run moistening (Funing)",
+        "phonetic": "iS",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "230078",
+        "chinese": "",
+        "kimmun": "ma22 nooi53 sat53",
+        "vietnamese": "Mặt trời",
+        "original": "richu sunrise (Funing)",
+        "phonetic": "Bit!",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "230083",
+        "chinese": "",
+        "kimmun": "gun22 kei35 dzam31",
+        "vietnamese": "Mặt trời",
+        "original": "bangwan sunset (Funing)",
+        "phonetic": "$Bft",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "230099",
+        "chinese": "*§?^,",
+        "kimmun": "Gin22 gi53 nooi53",
+        "vietnamese": "Mặt trời",
+        "original": "lTbaitian, xingqitian Sunday (Funing)",
+        "phonetic": "MSB^",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "SA-0161",
+        "chinese": "",
+        "kimmun": "nooiJ/ TS^J \"everyday\"",
+        "vietnamese": "Tôi",
+        "original": "/moi\\l (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    },
+    {
+        "entry_id": "260043",
+        "chinese": "",
+        "kimmun": "gwan22 kwan35",
+        "vietnamese": "Ruộng / Nương",
+        "original": "champion (Funing)",
+        "phonetic": "guanjun",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "280025",
+        "chinese": "",
+        "kimmun": "pai]53 gjou35",
+        "vietnamese": "Ngôi sao",
+        "original": "chenzao tostartearly (Funing)",
+        "phonetic": "^IP-",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "280095",
+        "chinese": "",
+        "kimmun": "ween22",
+        "vietnamese": "Chân trời",
+        "original": "hengzhe horizontally (Funing)",
+        "phonetic": "$t#",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "330034",
+        "chinese": "(— ) ?ij ('XM) (yO lie",
+        "kimmun": "/ ( 9aaH) kaal (hui^ siaH) /",
+        "vietnamese": "Mưa",
+        "original": "onetrain (Funing)",
+        "phonetic": "(huoche)",
+        "pos": "Funing"
+    },
+    {
+        "entry_id": "SA-0377",
+        "chinese": "",
+        "kimmun": "(pivotal construction)",
+        "vietnamese": "Mưa",
+        "original": "mattercausedmetobebrainwrecked. (Savina)",
+        "phonetic": "",
+        "pos": "Savina"
+    }
+]

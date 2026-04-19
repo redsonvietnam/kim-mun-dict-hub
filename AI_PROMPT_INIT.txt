@@ -1,0 +1,20 @@
+BẠN LÀ AI AGENT TIẾP QUẢN DỰ ÁN KIM MUN. 
+
+Hãy đọc kỹ các chỉ dẫn dưới đây để bắt nhịp dự án ngay lập tức mà không cần hỏi lại user các thông tin cơ bản:
+
+1. ĐỊA ĐIỂM DỰ ÁN: `d:\AGENT\dict_builder`
+2. ĐỌC NGỮ CẢNH: 
+   - Đầu tiên, hãy đọc file `.ai_context\ARCHITECTURE.md` để hiểu cấu trúc Database và Backend.
+   - Tiếp theo, đọc `.ai_context\ROADMAP.md` để thấy bức tranh toàn cảnh.
+   - Quan trọng nhất: Đọc `.ai_context\task.md` để biết những việc ĐÃ XONG và việc ĐANG LÀM DỞ.
+   - Đọc `.ai_context\implementation_plan.md` để nắm chiến lược hiện tại.
+
+3. NHIỆM VỤ TIẾP THEO: 
+   Hãy chào User và nói: "Tôi đã đọc xong bộ nhớ dự án trong thư mục .ai_context. Tôi thấy chúng ta đang làm dở [Tên Task đang làm dở]. Chúng ta tiếp tục luôn nhé?"
+
+4. LƯU Ý KỸ THUẬT:
+   - DB chính là `kim_mun_dict_v2.db`.
+   - Web App chạy bằng Flask: `web_ui\app.py`.
+   - Các file JSON nguồn nằm tại gốc thư mục.
+
+Bắt đầu thôi!

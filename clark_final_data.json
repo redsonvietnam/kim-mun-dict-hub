@@ -1,0 +1,1865 @@
+[
+    {
+        "entry_id": "CL-001",
+        "chinese": "",
+        "kimmun": "θɐw³³ (Laos) | ɡuŋ³¹ (Vietnam)",
+        "vietnamese": "Con kiến",
+        "original": "ant (Clark 2008)",
+        "phonetic": "Lao: θɐw³³, VN: ɡuŋ³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-002",
+        "chinese": "",
+        "kimmun": "klɐ.buj⁵² (Laos) | mə.nɔj³⁵ (Vietnam)",
+        "vietnamese": "Con dơi",
+        "original": "bat (Clark 2008)",
+        "phonetic": "Lao: klɐ.buj⁵², VN: mə.nɔj³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-004",
+        "chinese": "",
+        "kimmun": "mɐj³⁴¹muŋ⁴⁴",
+        "vietnamese": "Con ong",
+        "original": "bee (Clark 2008)",
+        "phonetic": "mɐj³⁴¹muŋ⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-005",
+        "chinese": "",
+        "kimmun": "nɔ³³",
+        "vietnamese": "Con chim",
+        "original": "bird (Clark 2008)",
+        "phonetic": "nɔ³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-006",
+        "chinese": "",
+        "kimmun": "ŋɔŋ¹¹",
+        "vietnamese": "Con trâu",
+        "original": "buffalo (Clark 2008)",
+        "phonetic": "ŋɔŋ¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-007",
+        "chinese": "",
+        "kimmun": "maːw¹¹",
+        "vietnamese": "Con mèo",
+        "original": "cat (Clark 2008)",
+        "phonetic": "maːw¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-008",
+        "chinese": "",
+        "kimmun": "buŋ³³blɐw³⁴¹",
+        "vietnamese": "Sâu bướm",
+        "original": "caterpillar (Clark 2008)",
+        "phonetic": "buŋ³³blɐw³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-006",
+        "chinese": "",
+        "kimmun": "θin⁵³taw¹³",
+        "vietnamese": "Ngôi sao",
+        "original": "star (Clark 2008)",
+        "phonetic": "θin⁵³taw¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-009",
+        "chinese": "",
+        "kimmun": "θap⁵²",
+        "vietnamese": "Con rết",
+        "original": "centipede (Clark 2008)",
+        "phonetic": "θap⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-007",
+        "chinese": "",
+        "kimmun": "ɡwaŋ⁵³",
+        "vietnamese": "Ánh sáng",
+        "original": "light (Clark 2008)",
+        "phonetic": "ɡwaŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-010",
+        "chinese": "",
+        "kimmun": "cock",
+        "vietnamese": "Con gà",
+        "original": "chicken (Clark 2008)",
+        "phonetic": "cock",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-008",
+        "chinese": "",
+        "kimmun": "bə.ɡloj⁵³",
+        "vietnamese": "Bóng tối / Bóng râm",
+        "original": "shadow (Clark 2008)",
+        "phonetic": "bə.ɡloj⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-011",
+        "chinese": "",
+        "kimmun": "hen",
+        "vietnamese": "Con gà",
+        "original": "chicken (Clark 2008)",
+        "phonetic": "hen",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-012",
+        "chinese": "",
+        "kimmun": "ȶɐj²¹⁴",
+        "vietnamese": "Con gà",
+        "original": "chicken (Clark 2008)",
+        "phonetic": "ȶɐj²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-010",
+        "chinese": "",
+        "kimmun": "ɡwaŋ⁵³daŋ³⁵",
+        "vietnamese": "Sáng sủa",
+        "original": "bright (Clark 2008)",
+        "phonetic": "ɡwaŋ⁵³daŋ³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-011",
+        "chinese": "",
+        "kimmun": "ȡam²¹",
+        "vietnamese": "Tối tăm",
+        "original": "dark (Clark 2008)",
+        "phonetic": "ȡam²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-014",
+        "chinese": "",
+        "kimmun": "kjɐm³⁵ȵaj²¹⁴",
+        "vietnamese": "Con cua",
+        "original": "crab (Clark 2008)",
+        "phonetic": "kjɐm³⁵ȵaj²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-012",
+        "chinese": "",
+        "kimmun": "van¹³",
+        "vietnamese": "Đám mây",
+        "original": "cloud (Clark 2008)",
+        "phonetic": "van¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-015",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴kjo³¹",
+        "vietnamese": "Con dế",
+        "original": "cricket (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴kjo³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-013",
+        "chinese": "",
+        "kimmun": "buŋ²¹",
+        "vietnamese": "Mưa",
+        "original": "rain (Clark 2008)",
+        "phonetic": "buŋ²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-016",
+        "chinese": "",
+        "kimmun": "ku.aː³¹",
+        "vietnamese": "Con quạ",
+        "original": "crow (Clark 2008)",
+        "phonetic": "ku.aː³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-014",
+        "chinese": "",
+        "kimmun": "ɡuŋ³¹ɡaːŋ¹³",
+        "vietnamese": "Cầu vồng",
+        "original": "rainbow (Clark 2008)",
+        "phonetic": "ɡuŋ³¹ɡaːŋ¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-015",
+        "chinese": "",
+        "kimmun": "buŋ²¹bit³¹to³⁴¹",
+        "vietnamese": "Tia chớp",
+        "original": "lightning (Clark 2008)",
+        "phonetic": "buŋ²¹bit³¹to³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-016",
+        "chinese": "",
+        "kimmun": "bu.ɡɔŋ⁵³haːw³¹",
+        "vietnamese": "Sấm sét",
+        "original": "thunder (Clark 2008)",
+        "phonetic": "bu.ɡɔŋ⁵³haːw³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-019",
+        "chinese": "",
+        "kimmun": "klu⁴⁴",
+        "vietnamese": "Con chó",
+        "original": "dog (Clark 2008)",
+        "phonetic": "klu⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-017",
+        "chinese": "",
+        "kimmun": "ȡaːw¹³",
+        "vietnamese": "Gió",
+        "original": "wind (Clark 2008)",
+        "phonetic": "ȡaːw¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-020",
+        "chinese": "",
+        "kimmun": "kuŋ²¹⁴",
+        "vietnamese": "Con rồng",
+        "original": "dragon (Clark 2008)",
+        "phonetic": "kuŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-018",
+        "chinese": "",
+        "kimmun": "ȡaw¹³kja⁵³",
+        "vietnamese": "Bão",
+        "original": "storm (Clark 2008)",
+        "phonetic": "ȡaw¹³kja⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-021",
+        "chinese": "",
+        "kimmun": "fly",
+        "vietnamese": "Con rồng",
+        "original": "dragon (Clark 2008)",
+        "phonetic": "fly",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-019",
+        "chinese": "",
+        "kimmun": "-------",
+        "vietnamese": "Tuyết",
+        "original": "snow (Clark 2008)",
+        "phonetic": "-------",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-021",
+        "chinese": "",
+        "kimmun": "pjɔ²¹",
+        "vietnamese": "Mưa đá",
+        "original": "hail (Clark 2008)",
+        "phonetic": "pjɔ²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-024",
+        "chinese": "",
+        "kimmun": "klaːŋ⁴⁴",
+        "vietnamese": "Đại bàng",
+        "original": "eagle (Clark 2008)",
+        "phonetic": "klaːŋ⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-022",
+        "chinese": "",
+        "kimmun": "si³⁵",
+        "vietnamese": "Thời tiết",
+        "original": "weather (Clark 2008)",
+        "phonetic": "si³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-025",
+        "chinese": "",
+        "kimmun": "bjaw³⁴¹",
+        "vietnamese": "Con cá",
+        "original": "fish (Clark 2008)",
+        "phonetic": "bjaw³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-026",
+        "chinese": "",
+        "kimmun": "klɐ.muŋ⁵²",
+        "vietnamese": "Con bọ chét",
+        "original": "flea (Clark 2008)",
+        "phonetic": "klɐ.muŋ⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-027",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴ɡjɐm⁵²",
+        "vietnamese": "Con ruồi",
+        "original": "fly (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴ɡjɐm⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-025",
+        "chinese": "",
+        "kimmun": "ɡuŋ⁵³haːn³⁵",
+        "vietnamese": "Hạn hán",
+        "original": "drought (Clark 2008)",
+        "phonetic": "ɡuŋ⁵³haːn³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-028",
+        "chinese": "",
+        "kimmun": "ȶɛŋ⁴⁴",
+        "vietnamese": "Con ếch",
+        "original": "frog (Clark 2008)",
+        "phonetic": "ȶɛŋ⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-026",
+        "chinese": "",
+        "kimmun": "bə.ȡam²¹",
+        "vietnamese": "Ban đêm",
+        "original": "night (Clark 2008)",
+        "phonetic": "bə.ȡam²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-029",
+        "chinese": "",
+        "kimmun": "juŋ¹¹",
+        "vietnamese": "Con dê",
+        "original": "goat (Clark 2008)",
+        "phonetic": "juŋ¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-027",
+        "chinese": "",
+        "kimmun": "mə.nɔj³⁵ȶaː¹³",
+        "vietnamese": "Ban ngày",
+        "original": "day (Clark 2008)",
+        "phonetic": "mə.nɔj³⁵ȶaː¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-030",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴bo³¹",
+        "vietnamese": "Châu chấu",
+        "original": "grasshopper (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴bo³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-028",
+        "chinese": "",
+        "kimmun": "bu.dom⁵³tɔn¹³",
+        "vietnamese": "Buổi sáng",
+        "original": "morning (Clark 2008)",
+        "phonetic": "bu.dom⁵³tɔn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-031",
+        "chinese": "",
+        "kimmun": "ma³⁴¹",
+        "vietnamese": "Con ngựa",
+        "original": "horse (Clark 2008)",
+        "phonetic": "ma³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-029",
+        "chinese": "",
+        "kimmun": "dum³¹nɔj³⁵",
+        "vietnamese": "Buổi trưa",
+        "original": "noon (Clark 2008)",
+        "phonetic": "dum³¹nɔj³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-032",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴",
+        "vietnamese": "Côn trùng",
+        "original": "insect (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-030",
+        "chinese": "",
+        "kimmun": "kum³¹nɔj³⁵",
+        "vietnamese": "Hôm qua",
+        "original": "yesterday (Clark 2008)",
+        "phonetic": "kum³¹nɔj³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-031",
+        "chinese": "",
+        "kimmun": "saŋ³¹dom⁵³",
+        "vietnamese": "Ngày mai",
+        "original": "tomorrow (Clark 2008)",
+        "phonetic": "saŋ³¹dom⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-032",
+        "chinese": "",
+        "kimmun": "ȵaŋ³⁵",
+        "vietnamese": "Năm",
+        "original": "year (Clark 2008)",
+        "phonetic": "ȵaŋ³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-035",
+        "chinese": "",
+        "kimmun": "bɐ.koŋ¹¹saː⁵²",
+        "vietnamese": "Con thằn lằn",
+        "original": "lizard (Clark 2008)",
+        "phonetic": "bɐ.koŋ¹¹saː⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-033a",
+        "chinese": "",
+        "kimmun": "tɔŋ⁵³faːn¹³",
+        "vietnamese": "Hướng Đông",
+        "original": "east (Clark 2008)",
+        "phonetic": "tɔŋ⁵³faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-033b",
+        "chinese": "",
+        "kimmun": "mə.nɔj³⁵sɛt³¹faːn¹³",
+        "vietnamese": "Hướng Đông",
+        "original": "east (Clark 2008)",
+        "phonetic": "mə.nɔj³⁵sɛt³¹faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-037",
+        "chinese": "",
+        "kimmun": "biŋ²¹⁴",
+        "vietnamese": "Con khỉ",
+        "original": "monkey (Clark 2008)",
+        "phonetic": "biŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-034a",
+        "chinese": "",
+        "kimmun": "fe⁵³faːn¹³",
+        "vietnamese": "Hướng Tây",
+        "original": "west (Clark 2008)",
+        "phonetic": "fe⁵³faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-038",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴",
+        "vietnamese": "Con muỗi",
+        "original": "mosquito (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-034b",
+        "chinese": "",
+        "kimmun": "mə.nɔj³⁴¹mot²¹ȶəj³¹faːn¹³",
+        "vietnamese": "Hướng Tây",
+        "original": "west (Clark 2008)",
+        "phonetic": "mə.nɔj³⁴¹mot²¹ȶəj³¹faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-039",
+        "chinese": "",
+        "kimmun": "tuŋ³¹",
+        "vietnamese": "Con lợn",
+        "original": "pig (Clark 2008)",
+        "phonetic": "tuŋ³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-035a",
+        "chinese": "",
+        "kimmun": "pu³³faːn¹³",
+        "vietnamese": "Hướng Bắc",
+        "original": "north (Clark 2008)",
+        "phonetic": "pu³³faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-035b",
+        "chinese": "",
+        "kimmun": "ȶa³¹le³⁵faːn¹³",
+        "vietnamese": "Hướng Bắc",
+        "original": "north (Clark 2008)",
+        "phonetic": "ȶa³¹le³⁵faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-041",
+        "chinese": "",
+        "kimmun": "tuŋ³¹kjɐn²¹⁴",
+        "vietnamese": "Lợn con",
+        "original": "piglet (Clark 2008)",
+        "phonetic": "tuŋ³¹kjɐn²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-036a",
+        "chinese": "",
+        "kimmun": "naːm³¹faːn¹³",
+        "vietnamese": "Hướng Nam",
+        "original": "south (Clark 2008)",
+        "phonetic": "naːm³¹faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-042",
+        "chinese": "",
+        "kimmun": "sow",
+        "vietnamese": "Con lợn",
+        "original": "pig (Clark 2008)",
+        "phonetic": "sow",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-036b",
+        "chinese": "",
+        "kimmun": "ku³³le³⁵faːn¹³",
+        "vietnamese": "Hướng Nam",
+        "original": "south (Clark 2008)",
+        "phonetic": "ku³³le³⁵faːn¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-043",
+        "chinese": "",
+        "kimmun": "du²¹⁴",
+        "vietnamese": "Con chuột",
+        "original": "rat (Clark 2008)",
+        "phonetic": "du²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-037",
+        "chinese": "",
+        "kimmun": "ɡuŋ³¹sin³¹",
+        "vietnamese": "Chân trời",
+        "original": "horizon (Clark 2008)",
+        "phonetic": "ɡuŋ³¹sin³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-044",
+        "chinese": "",
+        "kimmun": "ȶa³¹kɔŋ²¹⁴",
+        "vietnamese": "Con tôm",
+        "original": "shrimp (Clark 2008)",
+        "phonetic": "ȶa³¹kɔŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-038",
+        "chinese": "",
+        "kimmun": "wɔm⁵³",
+        "vietnamese": "Nước",
+        "original": "water (Clark 2008)",
+        "phonetic": "wɔm⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-045",
+        "chinese": "",
+        "kimmun": "kwɐj²¹⁴",
+        "vietnamese": "Con ốc",
+        "original": "snail (Clark 2008)",
+        "phonetic": "kwɐj²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-039",
+        "chinese": "",
+        "kimmun": "wɔm⁵³lu³⁵",
+        "vietnamese": "Con sông",
+        "original": "river (Clark 2008)",
+        "phonetic": "wɔm⁵³lu³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-046",
+        "chinese": "",
+        "kimmun": "naːŋ²¹⁴",
+        "vietnamese": "Con rắn",
+        "original": "snake (Clark 2008)",
+        "phonetic": "naːŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-040",
+        "chinese": "",
+        "kimmun": "wɔm⁵³nɔ³⁴¹",
+        "vietnamese": "Suối",
+        "original": "stream (Clark 2008)",
+        "phonetic": "wɔm⁵³nɔ³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-041",
+        "chinese": "",
+        "kimmun": "koj¹¹lu³⁵",
+        "vietnamese": "Biển",
+        "original": "sea (Clark 2008)",
+        "phonetic": "koj¹¹lu³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-048",
+        "chinese": "",
+        "kimmun": "kjɛŋ²¹⁴ȵaː⁴⁴",
+        "vietnamese": "Con nhện",
+        "original": "spider (Clark 2008)",
+        "phonetic": "kjɛŋ²¹⁴ȵaː⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-049",
+        "chinese": "",
+        "kimmun": "ɡjaːn¹¹",
+        "vietnamese": "Con hổ",
+        "original": "tiger (Clark 2008)",
+        "phonetic": "ɡjaːn¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-043",
+        "chinese": "",
+        "kimmun": "ni³⁵pam²¹",
+        "vietnamese": "Bùn",
+        "original": "mud (Clark 2008)",
+        "phonetic": "ni³⁵pam²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-050",
+        "chinese": "",
+        "kimmun": "pit³¹",
+        "vietnamese": "Con rùa",
+        "original": "turtle (Clark 2008)",
+        "phonetic": "pit³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-044",
+        "chinese": "",
+        "kimmun": "ni³⁵buŋ³⁵",
+        "vietnamese": "Bụi",
+        "original": "dust (Clark 2008)",
+        "phonetic": "ni³⁵buŋ³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-051",
+        "chinese": "",
+        "kimmun": "mɐj³⁴¹",
+        "vietnamese": "Ong vò vẽ",
+        "original": "wasp (Clark 2008)",
+        "phonetic": "mɐj³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-045",
+        "chinese": "",
+        "kimmun": "ɡjaːw⁵³",
+        "vietnamese": "Đá",
+        "original": "stone (Clark 2008)",
+        "phonetic": "ɡjaːw⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-052",
+        "chinese": "",
+        "kimmun": "kin¹¹maːw¹¹",
+        "vietnamese": "Con chồn",
+        "original": "weasel (Clark 2008)",
+        "phonetic": "kin¹¹maːw¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-046",
+        "chinese": "",
+        "kimmun": "ɡjaw⁵³θaj⁵³ȵɔt³⁵",
+        "vietnamese": "Đá cuội",
+        "original": "pebble (Clark 2008)",
+        "phonetic": "ɡjaw⁵³θaj⁵³ȵɔt³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-053",
+        "chinese": "",
+        "kimmun": "nuŋ¹¹naŋ²¹⁴",
+        "vietnamese": "Giun đất",
+        "original": "earthworm (Clark 2008)",
+        "phonetic": "nuŋ¹¹naŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-047",
+        "chinese": "",
+        "kimmun": "ɡjaw⁵³θaj⁵³min³¹",
+        "vietnamese": "Cát",
+        "original": "sand (Clark 2008)",
+        "phonetic": "ɡjaw⁵³θaj⁵³min³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-054",
+        "chinese": "",
+        "kimmun": "-------",
+        "vietnamese": "Con ngỗng",
+        "original": "goose (Clark 2008)",
+        "phonetic": "-------",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-048",
+        "chinese": "",
+        "kimmun": "səm⁵³",
+        "vietnamese": "Vàng",
+        "original": "gold (Clark 2008)",
+        "phonetic": "səm⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-049a",
+        "chinese": "",
+        "kimmun": "ȵan³¹pɛ²¹",
+        "vietnamese": "Bạc",
+        "original": "silver (Clark 2008)",
+        "phonetic": "ȵan³¹pɛ²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-049b",
+        "chinese": "",
+        "kimmun": "-------",
+        "vietnamese": "Bạc",
+        "original": "silver (Clark 2008)",
+        "phonetic": "-------",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-056",
+        "chinese": "",
+        "kimmun": "pu.θe⁵²",
+        "vietnamese": "Cánh tay",
+        "original": "arm (Clark 2008)",
+        "phonetic": "pu.θe⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-050",
+        "chinese": "",
+        "kimmun": "ɡjaː³⁵",
+        "vietnamese": "Sắt",
+        "original": "iron (Clark 2008)",
+        "phonetic": "ɡjaː³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-057",
+        "chinese": "",
+        "kimmun": "kɐ.tan⁴⁴kaŋ²¹⁴",
+        "vietnamese": "Lưng",
+        "original": "back (Clark 2008)",
+        "phonetic": "kɐ.tan⁴⁴kaŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-051",
+        "chinese": "",
+        "kimmun": "θe⁵³ȶuŋ³⁴¹",
+        "vietnamese": "Thép",
+        "original": "steel (Clark 2008)",
+        "phonetic": "θe⁵³ȶuŋ³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-058",
+        "chinese": "",
+        "kimmun": "θɔm⁵²",
+        "vietnamese": "Râu",
+        "original": "beard (Clark 2008)",
+        "phonetic": "θɔm⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-052",
+        "chinese": "",
+        "kimmun": "ȶɔŋ⁵³",
+        "vietnamese": "Núi",
+        "original": "mountain (Clark 2008)",
+        "phonetic": "ȶɔŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-059",
+        "chinese": "",
+        "kimmun": "ȵo³³",
+        "vietnamese": "Bụng",
+        "original": "belly (Clark 2008)",
+        "phonetic": "ȵo³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-053",
+        "chinese": "",
+        "kimmun": "ȶə.bɛŋ³¹kɔt³⁵",
+        "vietnamese": "Hang động",
+        "original": "cave (Clark 2008)",
+        "phonetic": "ȶə.bɛŋ³¹kɔt³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-060",
+        "chinese": "",
+        "kimmun": "θaːm³³",
+        "vietnamese": "Máu",
+        "original": "blood (Clark 2008)",
+        "phonetic": "θaːm³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-054",
+        "chinese": "",
+        "kimmun": "ɡuŋ",
+        "vietnamese": "Động đất",
+        "original": "earthquake (Clark 2008)",
+        "phonetic": "ɡuŋ",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-061",
+        "chinese": "",
+        "kimmun": "θin⁵²",
+        "vietnamese": "Cơ thể",
+        "original": "body (Clark 2008)",
+        "phonetic": "θin⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-055",
+        "chinese": "",
+        "kimmun": "ɡlaːŋ³¹",
+        "vietnamese": "Đầm lầy",
+        "original": "swamp (Clark 2008)",
+        "phonetic": "ɡlaːŋ³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-062",
+        "chinese": "",
+        "kimmun": "θuŋ⁴⁴",
+        "vietnamese": "Xương",
+        "original": "bone (Clark 2008)",
+        "phonetic": "θuŋ⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-056",
+        "chinese": "",
+        "kimmun": "ɡjaw⁵³bɛŋ¹³",
+        "vietnamese": "Vách đá",
+        "original": "cliff (Clark 2008)",
+        "phonetic": "ɡjaw⁵³bɛŋ¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-063",
+        "chinese": "",
+        "kimmun": "pi⁴⁴le⁴⁴",
+        "vietnamese": "Não",
+        "original": "brain (Clark 2008)",
+        "phonetic": "pi⁴⁴le⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-057",
+        "chinese": "",
+        "kimmun": "sun³⁵ȶa:w⁵³",
+        "vietnamese": "Thung lũng",
+        "original": "valley (Clark 2008)",
+        "phonetic": "sun³⁵ȶa:w⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-064",
+        "chinese": "",
+        "kimmun": "kɐ.tlaj⁴⁴kɐ⁵²",
+        "vietnamese": "Mông",
+        "original": "butt (Clark 2008)",
+        "phonetic": "kɐ.tlaj⁴⁴kɐ⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-058",
+        "chinese": "",
+        "kimmun": "kɔt³⁵",
+        "vietnamese": "Hố / Lỗ",
+        "original": "hole (Clark 2008)",
+        "phonetic": "kɔt³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-065",
+        "chinese": "",
+        "kimmun": "kɐ.lap³¹",
+        "vietnamese": "Ngực",
+        "original": "chest (Clark 2008)",
+        "phonetic": "kɐ.lap³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-059",
+        "chinese": "",
+        "kimmun": "wɔm⁵³kat³¹",
+        "vietnamese": "Băng",
+        "original": "ice (Clark 2008)",
+        "phonetic": "wɔm⁵³kat³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-067",
+        "chinese": "",
+        "kimmun": "mun¹¹tɐj³³",
+        "vietnamese": "Xác chết",
+        "original": "corpse (Clark 2008)",
+        "phonetic": "mun¹¹tɐj³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-061",
+        "chinese": "",
+        "kimmun": "wɔm⁵³jaːm¹³",
+        "vietnamese": "Lũ lụt",
+        "original": "flood (Clark 2008)",
+        "phonetic": "wɔm⁵³jaːm¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-068",
+        "chinese": "",
+        "kimmun": "mɐ.nɔm¹¹",
+        "vietnamese": "Tai",
+        "original": "ears (Clark 2008)",
+        "phonetic": "mɐ.nɔm¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-069",
+        "chinese": "",
+        "kimmun": "kjaw³⁵",
+        "vietnamese": "Quả trứng",
+        "original": "egg (Clark 2008)",
+        "phonetic": "kjaw³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-070",
+        "chinese": "",
+        "kimmun": "mɐj³³",
+        "vietnamese": "Mắt",
+        "original": "eye (Clark 2008)",
+        "phonetic": "mɐj³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-064",
+        "chinese": "",
+        "kimmun": "wɔm⁵³tuj³¹ȶaːm³¹",
+        "vietnamese": "Thác nước",
+        "original": "waterfall (Clark 2008)",
+        "phonetic": "wɔm⁵³tuj³¹ȶaːm³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-071",
+        "chinese": "",
+        "kimmun": "mɐj³³maːj³¹",
+        "vietnamese": "Lông mày",
+        "original": "eyebrows (Clark 2008)",
+        "phonetic": "mɐj³³maːj³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-065",
+        "chinese": "",
+        "kimmun": "wɔm⁵³ɡjɛŋ⁵³",
+        "vietnamese": "Hòn đảo",
+        "original": "island (Clark 2008)",
+        "phonetic": "wɔm⁵³ɡjɛŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-072",
+        "chinese": "",
+        "kimmun": "min⁵²",
+        "vietnamese": "Khuôn mặt",
+        "original": "face (Clark 2008)",
+        "phonetic": "min⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-066",
+        "chinese": "",
+        "kimmun": "wɔm⁵³ɡap²¹",
+        "vietnamese": "Hồ",
+        "original": "lake (Clark 2008)",
+        "phonetic": "wɔm⁵³ɡap²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-073",
+        "chinese": "",
+        "kimmun": "dɐj⁴⁴",
+        "vietnamese": "Phân",
+        "original": "excrement (Clark 2008)",
+        "phonetic": "dɐj⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-074",
+        "chinese": "",
+        "kimmun": "pu.dɔ³¹",
+        "vietnamese": "Ngón tay",
+        "original": "finger (Clark 2008)",
+        "phonetic": "pu.dɔ³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-067",
+        "chinese": "",
+        "kimmun": "kim³¹",
+        "vietnamese": "Rừng",
+        "original": "forest (Clark 2008)",
+        "phonetic": "kim³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-076",
+        "chinese": "",
+        "kimmun": "(surface)",
+        "vietnamese": "Bàn chân",
+        "original": "foot (Clark 2008)",
+        "phonetic": "(surface)",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-073",
+        "chinese": "",
+        "kimmun": "nɔm³¹",
+        "vietnamese": "Lá",
+        "original": "leaf (Clark 2008)",
+        "phonetic": "nɔm³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-081",
+        "chinese": "",
+        "kimmun": "pje⁴⁴",
+        "vietnamese": "Đầu",
+        "original": "head (Clark 2008)",
+        "phonetic": "pje⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-074",
+        "chinese": "",
+        "kimmun": "ɡjaŋ³³faːŋ³¹",
+        "vietnamese": "Hoa",
+        "original": "flower (Clark 2008)",
+        "phonetic": "ɡjaŋ³³faːŋ³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-082",
+        "chinese": "",
+        "kimmun": "θin²¹⁴taw³¹",
+        "vietnamese": "Trái tim",
+        "original": "heart (Clark 2008)",
+        "phonetic": "θin²¹⁴taw³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-075",
+        "chinese": "",
+        "kimmun": "ɡjaŋ³³pjo³³",
+        "vietnamese": "Quả / Trái",
+        "original": "fruit (Clark 2008)",
+        "phonetic": "ɡjaŋ³³pjo³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-076a",
+        "chinese": "",
+        "kimmun": "-------",
+        "vietnamese": "Hạt",
+        "original": "seed (Clark 2008)",
+        "phonetic": "-------",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-084",
+        "chinese": "",
+        "kimmun": "θaw³⁵dɔ³¹waj³⁵",
+        "vietnamese": "Móng guốc",
+        "original": "hoof (Clark 2008)",
+        "phonetic": "θaw³⁵dɔ³¹waj³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-076b",
+        "chinese": "",
+        "kimmun": "nɔm⁵³",
+        "vietnamese": "Hạt",
+        "original": "seed (Clark 2008)",
+        "phonetic": "nɔm⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-085",
+        "chinese": "",
+        "kimmun": "kjɔŋ²¹⁴",
+        "vietnamese": "Sừng",
+        "original": "horn (Clark 2008)",
+        "phonetic": "kjɔŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-086",
+        "chinese": "",
+        "kimmun": "klaːŋ¹¹",
+        "vietnamese": "Ruột",
+        "original": "intestine (Clark 2008)",
+        "phonetic": "klaːŋ¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-078",
+        "chinese": "",
+        "kimmun": "laːw¹¹",
+        "vietnamese": "Tre",
+        "original": "bamboo (Clark 2008)",
+        "phonetic": "laːw¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-087",
+        "chinese": "",
+        "kimmun": "θaw³⁵",
+        "vietnamese": "Chân",
+        "original": "leg (Clark 2008)",
+        "phonetic": "θaw³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-079",
+        "chinese": "",
+        "kimmun": "shoot",
+        "vietnamese": "Tre",
+        "original": "bamboo (Clark 2008)",
+        "phonetic": "shoot",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-088",
+        "chinese": "",
+        "kimmun": "ɡjɐn⁵²",
+        "vietnamese": "Gan",
+        "original": "liver (Clark 2008)",
+        "phonetic": "ɡjɐn⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-080",
+        "chinese": "",
+        "kimmun": "pole",
+        "vietnamese": "Tre",
+        "original": "bamboo (Clark 2008)",
+        "phonetic": "pole",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-089",
+        "chinese": "",
+        "kimmun": "klum⁵²",
+        "vietnamese": "Phổi",
+        "original": "lungs (Clark 2008)",
+        "phonetic": "klum⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-091",
+        "chinese": "",
+        "kimmun": "ȡɐt³³",
+        "vietnamese": "Miệng",
+        "original": "mouth (Clark 2008)",
+        "phonetic": "ȡɐt³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-092",
+        "chinese": "",
+        "kimmun": "blut³³",
+        "vietnamese": "Dịch nhầy",
+        "original": "mucus (Clark 2008)",
+        "phonetic": "blut³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-093",
+        "chinese": "",
+        "kimmun": "klaːŋ²¹⁴",
+        "vietnamese": "Cổ",
+        "original": "neck (Clark 2008)",
+        "phonetic": "klaːŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-094",
+        "chinese": "",
+        "kimmun": "ɡjaw³⁴¹",
+        "vietnamese": "Tổ",
+        "original": "nest (Clark 2008)",
+        "phonetic": "ɡjaw³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-114",
+        "chinese": "",
+        "kimmun": "ŋaːm¹¹",
+        "vietnamese": "Hang động",
+        "original": "cave (Clark 2008)",
+        "phonetic": "ŋaːm¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-115",
+        "chinese": "",
+        "kimmun": "ɡjaw²¹⁴pje³¹",
+        "vietnamese": "Vách đá",
+        "original": "cliff (Clark 2008)",
+        "phonetic": "ɡjaw²¹⁴pje³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-116",
+        "chinese": "",
+        "kimmun": "vɐn³⁵",
+        "vietnamese": "Đám mây",
+        "original": "cloud (Clark 2008)",
+        "phonetic": "vɐn³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-119",
+        "chinese": "",
+        "kimmun": "ni⁵²",
+        "vietnamese": "Đất / Trái đất",
+        "original": "earth (Clark 2008)",
+        "phonetic": "ni⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-121",
+        "chinese": "",
+        "kimmun": "kim¹¹",
+        "vietnamese": "Rừng",
+        "original": "forest (Clark 2008)",
+        "phonetic": "kim¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-122",
+        "chinese": "",
+        "kimmun": "sɐm²¹⁴",
+        "vietnamese": "Vàng",
+        "original": "gold (Clark 2008)",
+        "phonetic": "sɐm²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-123",
+        "chinese": "",
+        "kimmun": "ɡjaː⁵²",
+        "vietnamese": "Sắt",
+        "original": "iron (Clark 2008)",
+        "phonetic": "ɡjaː⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-125",
+        "chinese": "",
+        "kimmun": "ȶɔŋ²¹⁴",
+        "vietnamese": "Núi",
+        "original": "mountain (Clark 2008)",
+        "phonetic": "ȶɔŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-126",
+        "chinese": "",
+        "kimmun": "paːm³³",
+        "vietnamese": "Bùn",
+        "original": "mud (Clark 2008)",
+        "phonetic": "paːm³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-128",
+        "chinese": "",
+        "kimmun": "buŋ³³lu⁵²",
+        "vietnamese": "Mưa",
+        "original": "rain (Clark 2008)",
+        "phonetic": "buŋ³³lu⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-129",
+        "chinese": "",
+        "kimmun": "kɔj³³",
+        "vietnamese": "Con sông",
+        "original": "river (Clark 2008)",
+        "phonetic": "kɔj³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-131",
+        "chinese": "",
+        "kimmun": "ɡjaw²¹⁴θaːj²¹⁴",
+        "vietnamese": "Cát",
+        "original": "sand (Clark 2008)",
+        "phonetic": "ɡjaw²¹⁴θaːj²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-132",
+        "chinese": "",
+        "kimmun": "ȵaːn¹¹",
+        "vietnamese": "Bạc",
+        "original": "silver (Clark 2008)",
+        "phonetic": "ȵaːn¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-133",
+        "chinese": "",
+        "kimmun": "ɡuŋ¹¹",
+        "vietnamese": "Bầu trời",
+        "original": "sky (Clark 2008)",
+        "phonetic": "ɡuŋ¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-134",
+        "chinese": "",
+        "kimmun": "ɡjaw²¹⁴",
+        "vietnamese": "Đá",
+        "original": "stone (Clark 2008)",
+        "phonetic": "ɡjaw²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-135",
+        "chinese": "",
+        "kimmun": "mɐ.nɔj⁵²",
+        "vietnamese": "Mặt trời",
+        "original": "sun (Clark 2008)",
+        "phonetic": "mɐ.nɔj⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-137",
+        "chinese": "",
+        "kimmun": "bu.kɔŋ²¹⁴",
+        "vietnamese": "Sấm sét",
+        "original": "thunder (Clark 2008)",
+        "phonetic": "bu.kɔŋ²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-138",
+        "chinese": "",
+        "kimmun": "wɐm²¹⁴",
+        "vietnamese": "Nước",
+        "original": "water (Clark 2008)",
+        "phonetic": "wɐm²¹⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-139",
+        "chinese": "",
+        "kimmun": "ȡaːw³⁵",
+        "vietnamese": "Gió",
+        "original": "wind (Clark 2008)",
+        "phonetic": "ȡaːw³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-153",
+        "chinese": "",
+        "kimmun": "faŋ¹¹",
+        "vietnamese": "Hoa",
+        "original": "flower (Clark 2008)",
+        "phonetic": "faŋ¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-154",
+        "chinese": "",
+        "kimmun": "pjo⁴⁴",
+        "vietnamese": "Quả / Trái",
+        "original": "fruit (Clark 2008)",
+        "phonetic": "pjo⁴⁴",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-158",
+        "chinese": "",
+        "kimmun": "nɔm¹¹",
+        "vietnamese": "Lá",
+        "original": "leaf (Clark 2008)",
+        "phonetic": "nɔm¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-163",
+        "chinese": "",
+        "kimmun": "ɡjaːn³¹",
+        "vietnamese": "Con hổ",
+        "original": "tiger (Clark 2008)",
+        "phonetic": "ɡjaːn³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-166",
+        "chinese": "",
+        "kimmun": "du⁵³kuk³⁵",
+        "vietnamese": "Con khỉ",
+        "original": "monkey (Clark 2008)",
+        "phonetic": "du⁵³kuk³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-169",
+        "chinese": "",
+        "kimmun": "klu³³",
+        "vietnamese": "Con chó",
+        "original": "dog (Clark 2008)",
+        "phonetic": "klu³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-172a",
+        "chinese": "",
+        "kimmun": "maːw³¹",
+        "vietnamese": "Con mèo",
+        "original": "cat (Clark 2008)",
+        "phonetic": "maːw³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-172b",
+        "chinese": "",
+        "kimmun": "-------",
+        "vietnamese": "Con mèo",
+        "original": "cat (Clark 2008)",
+        "phonetic": "-------",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-173",
+        "chinese": "",
+        "kimmun": "tuŋ³⁴¹",
+        "vietnamese": "Con lợn",
+        "original": "pig (Clark 2008)",
+        "phonetic": "tuŋ³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-176",
+        "chinese": "",
+        "kimmun": "ŋɔŋ³³bu¹¹",
+        "vietnamese": "Con trâu",
+        "original": "buffalo (Clark 2008)",
+        "phonetic": "ŋɔŋ³³bu¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-177",
+        "chinese": "",
+        "kimmun": "kjoŋ⁵³",
+        "vietnamese": "Sừng",
+        "original": "horn (Clark 2008)",
+        "phonetic": "kjoŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-186",
+        "chinese": "",
+        "kimmun": "mɐ.nɔj⁵²ȶaː³⁵",
+        "vietnamese": "Ban ngày",
+        "original": "day (Clark 2008)",
+        "phonetic": "mɐ.nɔj⁵²ȶaː³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-180",
+        "chinese": "",
+        "kimmun": "nɔ²¹",
+        "vietnamese": "Con chim",
+        "original": "bird (Clark 2008)",
+        "phonetic": "nɔ²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-190",
+        "chinese": "",
+        "kimmun": "bɐ.tɔm²¹⁴ɡjo³¹",
+        "vietnamese": "Buổi sáng",
+        "original": "morning (Clark 2008)",
+        "phonetic": "bɐ.tɔm²¹⁴ɡjo³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-191",
+        "chinese": "",
+        "kimmun": "ȡaːm³³",
+        "vietnamese": "Ban đêm",
+        "original": "night (Clark 2008)",
+        "phonetic": "ȡaːm³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-192",
+        "chinese": "",
+        "kimmun": "ȵaŋ⁵²",
+        "vietnamese": "Năm",
+        "original": "year (Clark 2008)",
+        "phonetic": "ȵaŋ⁵²",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-185",
+        "chinese": "",
+        "kimmun": "kjaw¹³",
+        "vietnamese": "Quả trứng",
+        "original": "egg (Clark 2008)",
+        "phonetic": "kjaw¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-186",
+        "chinese": "",
+        "kimmun": "ȶe⁵³",
+        "vietnamese": "Con gà",
+        "original": "chicken (Clark 2008)",
+        "phonetic": "ȶe⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-187",
+        "chinese": "",
+        "kimmun": "aːp⁵³",
+        "vietnamese": "Con vịt",
+        "original": "duck (Clark 2008)",
+        "phonetic": "aːp⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-188",
+        "chinese": "",
+        "kimmun": "bjaw³⁴¹",
+        "vietnamese": "Con cá",
+        "original": "fish (Clark 2008)",
+        "phonetic": "bjaw³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-189",
+        "chinese": "",
+        "kimmun": "naːŋ⁵³",
+        "vietnamese": "Con rắn",
+        "original": "snake (Clark 2008)",
+        "phonetic": "naːŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-191",
+        "chinese": "",
+        "kimmun": "tu²¹",
+        "vietnamese": "Con rùa",
+        "original": "turtle (Clark 2008)",
+        "phonetic": "tu²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-193",
+        "chinese": "",
+        "kimmun": "ȶɛŋ³³",
+        "vietnamese": "Con ếch",
+        "original": "frog (Clark 2008)",
+        "phonetic": "ȶɛŋ³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-195",
+        "chinese": "",
+        "kimmun": "kjiŋ⁵³ȵaː³³",
+        "vietnamese": "Con nhện",
+        "original": "spider (Clark 2008)",
+        "phonetic": "kjiŋ⁵³ȵaː³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-196",
+        "chinese": "",
+        "kimmun": "web",
+        "vietnamese": "Con nhện",
+        "original": "spider (Clark 2008)",
+        "phonetic": "web",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-200",
+        "chinese": "",
+        "kimmun": "kwe⁵³",
+        "vietnamese": "Con ốc",
+        "original": "snail (Clark 2008)",
+        "phonetic": "kwe⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-201",
+        "chinese": "",
+        "kimmun": "ȶim⁵³ȶaːj⁵³",
+        "vietnamese": "Con muỗi",
+        "original": "mosquito (Clark 2008)",
+        "phonetic": "ȶim⁵³ȶaːj⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-202",
+        "chinese": "",
+        "kimmun": "məj³⁴¹",
+        "vietnamese": "Con ong",
+        "original": "bee (Clark 2008)",
+        "phonetic": "məj³⁴¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-203",
+        "chinese": "",
+        "kimmun": "kjiŋ⁵³ɡjəm³⁵",
+        "vietnamese": "Con ruồi",
+        "original": "fly (Clark 2008)",
+        "phonetic": "kjiŋ⁵³ɡjəm³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-206",
+        "chinese": "",
+        "kimmun": "duŋ³¹naːŋ⁵³",
+        "vietnamese": "Giun đất",
+        "original": "earthworm (Clark 2008)",
+        "phonetic": "duŋ³¹naːŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-207",
+        "chinese": "",
+        "kimmun": "pje³³",
+        "vietnamese": "Đầu",
+        "original": "head (Clark 2008)",
+        "phonetic": "pje³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-208",
+        "chinese": "",
+        "kimmun": "min³⁵",
+        "vietnamese": "Khuôn mặt",
+        "original": "face (Clark 2008)",
+        "phonetic": "min³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-209",
+        "chinese": "",
+        "kimmun": "pje³³le²¹",
+        "vietnamese": "Não",
+        "original": "brain (Clark 2008)",
+        "phonetic": "pje³³le²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-213",
+        "chinese": "",
+        "kimmun": "məj²¹",
+        "vietnamese": "Mắt",
+        "original": "eye (Clark 2008)",
+        "phonetic": "məj²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-218",
+        "chinese": "",
+        "kimmun": "ȡɛt²¹",
+        "vietnamese": "Miệng",
+        "original": "mouth (Clark 2008)",
+        "phonetic": "ȡɛt²¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-224",
+        "chinese": "",
+        "kimmun": "ȡɛt²¹θɔm³⁵",
+        "vietnamese": "Râu",
+        "original": "beard (Clark 2008)",
+        "phonetic": "ȡɛt²¹θɔm³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-225",
+        "chinese": "",
+        "kimmun": "tan³³kaːn⁵³",
+        "vietnamese": "Lưng",
+        "original": "back (Clark 2008)",
+        "phonetic": "tan³³kaːn⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-227",
+        "chinese": "",
+        "kimmun": "θim⁵³taːw³¹",
+        "vietnamese": "Trái tim",
+        "original": "heart (Clark 2008)",
+        "phonetic": "θim⁵³taːw³¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-228",
+        "chinese": "",
+        "kimmun": "klum³⁵",
+        "vietnamese": "Phổi",
+        "original": "lungs (Clark 2008)",
+        "phonetic": "klum³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-229",
+        "chinese": "",
+        "kimmun": "ɡjan³⁵",
+        "vietnamese": "Gan",
+        "original": "liver (Clark 2008)",
+        "phonetic": "ɡjan³⁵",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-235",
+        "chinese": "",
+        "kimmun": "pu³⁴¹dɔ⁵³",
+        "vietnamese": "Ngón tay",
+        "original": "finger (Clark 2008)",
+        "phonetic": "pu³⁴¹dɔ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-238",
+        "chinese": "",
+        "kimmun": "θaw³³klaːŋ⁵³",
+        "vietnamese": "Chân",
+        "original": "leg (Clark 2008)",
+        "phonetic": "θaw³³klaːŋ⁵³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-243",
+        "chinese": "",
+        "kimmun": "θaw¹³",
+        "vietnamese": "Bàn chân",
+        "original": "foot (Clark 2008)",
+        "phonetic": "θaw¹³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-245",
+        "chinese": "",
+        "kimmun": "θuŋ³³",
+        "vietnamese": "Xương",
+        "original": "bone (Clark 2008)",
+        "phonetic": "θuŋ³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-250",
+        "chinese": "",
+        "kimmun": "saːm¹¹",
+        "vietnamese": "Máu",
+        "original": "blood (Clark 2008)",
+        "phonetic": "saːm¹¹",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-253",
+        "chinese": "",
+        "kimmun": "daːj³³",
+        "vietnamese": "Phân",
+        "original": "excrement (Clark 2008)",
+        "phonetic": "daːj³³",
+        "pos": "Clark 2008"
+    },
+    {
+        "entry_id": "CL-306",
+        "chinese": "",
+        "kimmun": "weight",
+        "vietnamese": "Ánh sáng",
+        "original": "light (Clark 2008)",
+        "phonetic": "weight",
+        "pos": "Clark 2008"
+    }
+]
