@@ -809,40 +809,6 @@
         input.value = '';
     }
 
-    // Override performSearch to also update table view
-    const _origRender = window._origRender;
-    function performSearch() {
-        const query = searchInput.value.trim();
-        let url = `/search?q=${encodeURIComponent(query)}&source=${encodeURIComponent(currentSource)}&category=${encodeURIComponent(currentCategory)}`;
-        mainGrid.innerHTML = '<div style="grid-column: 1/-1; text-align: center; margin-top: 50px; opacity: 0.5;">Đang tải...</div>';
-        fetch(url).then(res => res.json()).then(data => {
-            mainGrid.innerHTML = '';
-            resultCount.innerText = `${data.length} Kết quả`;
-            // Card view
-            data.forEach((entry, idx) => {
-                const card = document.createElement('div');
-                card.className = 'card';
-                card.style.animation = `slideUp 0.5s ease forwards ${idx * 0.03}s`;
-                card.style.opacity = '0';
-                const sourceTag = entry.source.includes('Savina') ? 'source-savina' : entry.source.includes('Clark') ? 'source-clark' : 'source-shintani';
-                const frenchOrig = entry.french_orig ? `<div style="font-size: 0.82rem; color: #a5b4fc; margin-bottom: 6px;">${entry.french_orig}</div>` : '';
-                const chinese = entry.chinese ? `<div class="card-chinese">${entry.chinese}</div>` : '';
-                const vietnamese = entry.vietnamese || entry.meaning_en || '...';
-                card.innerHTML = `
-                    <div class="card-source-tag ${sourceTag}">${entry.source}</div>
-                    <div class="card-id">#${entry.entry_id}</div>${frenchOrig}
-                    <div class="card-main">${chinese}<div class="card-vietnamese">${vietnamese}</div></div>
-                    <div class="card-mun">${entry.kimmun} ${entry.pinyin ? `<span style="opacity:0.6;margin-left:8px">[${entry.pinyin}]</span>` : ''}</div>
-                    <div class="card-english">${entry.meaning_en && entry.vietnamese && entry.source.includes('Shintani') ? 'Eng: '+entry.meaning_en : ''}</div>
-                    <div class="card-footer">
-                        ${entry.category ? `<span class="pill">${entry.category}</span>` : ''}
-                    </div>`;
-                mainGrid.appendChild(card);
-            });
-            // Table view
-            renderTableMode(data);
-        });
-    }
 
     // ---- Inline Edit Modal ----
     function openEditModal(entryId) {
