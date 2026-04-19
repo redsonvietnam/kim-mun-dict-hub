@@ -86,6 +86,41 @@ def stats():
     })
 
 
+@app.route('/entry/<entry_id>')
+def get_entry(entry_id):
+    """Lấy chi tiết một mục từ để chỉnh sửa."""
+    conn = get_db_connection()
+    row = conn.execute("SELECT * FROM dictionary WHERE entry_id = ? LIMIT 1", (entry_id,)).fetchone()
+    conn.close()
+    if row:
+        return jsonify(dict(row))
+    return jsonify({"error": "Không tìm thấy mục từ."}), 404
+
+@app.route('/update_entry', methods=['POST'])
+def update_entry():
+    """Cập nhật trực tiếp một mục từ vào DB."""
+    data = request.get_json()
+    entry_id = data.get('entry_id', '').strip()
+    if not entry_id:
+        return jsonify({"error": "Thiếu entry_id."}), 400
+    
+    conn = get_db_connection()
+    conn.execute("""
+        UPDATE dictionary SET
+            chinese = ?, pinyin = ?, kimmun = ?, vietnamese = ?,
+            meaning_en = ?, meaning_fr = ?, category = ?, subcategory = ?, notes = ?
+        WHERE entry_id = ?
+    """, (
+        data.get('chinese', ''), data.get('pinyin', ''), data.get('kimmun', ''),
+        data.get('vietnamese', ''), data.get('meaning_en', ''), data.get('meaning_fr', ''),
+        data.get('category', ''), data.get('subcategory', ''), data.get('notes', ''),
+        entry_id
+    ))
+    conn.commit()
+    changes = conn.execute("SELECT changes()").fetchone()[0]
+    conn.close()
+    return jsonify({"success": True, "updated": changes})
+
 @app.route('/phonology')
 def phonology():
     """Trả về nội dung Markdown về Âm vị học Kim Mun."""
